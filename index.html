@@ -130,7 +130,48 @@ body{background:linear-gradient(140deg,#FBFBF5 0%,#F7FBF9 40%,#F7F9FD 100%);colo
  .article .title{font-size:13px}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.feature{transition:none}}
-</style></head><body><nav class="mobileNav" id="mobileNav" aria-label="移动端分类导航"></nav><div class="layout">
+
+/* Insight Edition · title-based Chinese quick read and business learning */
+.board-guide{position:relative;margin:4px 0 18px;padding:19px 22px 17px;background:linear-gradient(115deg,#F4FBF7 0%,#F4F8FF 76%,#FFFBF4 100%);border:1px solid #E5EEED;border-radius:14px;box-shadow:0 5px 16px rgba(97,130,125,.035)}
+.board-guide.level-A{background:linear-gradient(112deg,#F0F7FD,#F6FAFF 70%,#F8FCF9);border-color:#E4EDF6}
+.board-guide.level-C{background:linear-gradient(112deg,#FFF8EA,#FFFCF8 65%,#FAF5ED);border-color:#F4EAD9}
+.guide-top{display:flex;align-items:flex-start;gap:12px}
+.guide-icon{display:grid;place-items:center;flex:none;font-size:21px;background:#E3F3EB;color:#397963;border-radius:11px;width:39px;height:39px}
+.level-A .guide-icon{background:#E1EFF9;color:#457B9E}.level-C .guide-icon{background:#FAEACC;color:#977143}
+.guide-title{font-size:15px;font-weight:800;color:#345763;line-height:1.5}.guide-description{font-size:12px;color:#63818A;line-height:1.75;margin:3px 0 10px}
+.guide-columns{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px}
+.guide-cell{padding:11px 12px;border:1px solid rgba(200,215,216,.58);border-radius:9px;background:rgba(255,255,255,.66);min-width:0}
+.guide-cell span{display:block;color:#6D8B92;font-size:10px;font-weight:800;letter-spacing:.5px;margin-bottom:5px}
+.guide-cell p{font-size:11.5px;line-height:1.7;margin:0;color:#3D5B65}
+.guide-caveat{margin:10px 0 0;color:#7E9399;font-size:10.5px;line-height:1.6}
+.read-first{background:#F5FAF8;border:1px solid #E9F0EC;padding:12px 14px;border-radius:10px;margin:11px 0 10px}
+.read-label{display:flex;align-items:center;gap:7px;font-size:10.5px;font-weight:800;color:#47887C;margin-bottom:5px}
+.read-title{font-size:13.5px;font-weight:730;color:#31535B;line-height:1.65;margin:0}
+.origin-title{font-size:11px;color:#88979C;line-height:1.65;margin:5px 0 8px;overflow-wrap:anywhere}
+.insight-rows{display:grid;grid-template-columns:1fr;gap:8px}
+.insight-line{display:flex;gap:9px;align-items:flex-start;font-size:11.7px;color:#536F79;line-height:1.75;min-width:0}
+.insight-line .prefix{font-size:10.5px;font-weight:750;flex:none;min-width:62px;padding:2px 6px;border-radius:5px;text-align:center;color:#507E8E;background:#ECF4F9}
+.insight-line.idea .prefix{background:#FFF4E6;color:#9D7951}
+.article .title.main-zh{font-size:14px;line-height:1.58;display:block;margin:9px 0 0}
+.article .title.main-zh:hover{text-decoration:underline}
+.article .origin-title{margin-bottom:10px}
+.article .desc{display:none}
+.article .note-explainer{color:#A3ADB0;font-size:10px;margin:9px 0 0}
+.feature .feature-summary{font-size:14px;color:#3D5C64;line-height:1.6;margin:12px 0 7px;font-weight:730;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
+.feature .origin-title{font-size:11px;margin:0 0 12px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+.feature .feature-idea{font-size:11.5px;color:#6B8088;line-height:1.75;margin:auto 0 12px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
+.detail-block{background:#F7FAFA;border-radius:11px;padding:14px 16px;margin:14px 0}
+.detail-block strong{display:block;font-size:12px;margin-bottom:6px;color:#3A6471}
+.detail-block p{margin:0;color:#526C75;font-size:12.5px;line-height:1.85}
+.detail-block.ideas{background:#FFF8EC}.detail-block.ideas strong{color:#916E45}
+.detail-source-note{font-size:11px;color:#82939A;line-height:1.8;margin:8px 0 10px}
+.detail-actions{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 8px}
+.detail-actions button{font-size:12px}
+@media(min-width:1250px){.article{padding:19px 22px}.article .title.main-zh{font-size:14.5px}}
+@media(max-width:870px){.guide-columns{grid-template-columns:1fr}.board-guide{padding:16px 15px}}
+@media(max-width:760px){.article{padding:16px 14px}.insight-line{font-size:11px}.insight-line .prefix{min-width:59px}.feature .feature-summary{font-size:13px}.guide-title{font-size:14px}.read-first{padding:11px 12px}}
+
+</style></head><body><div class="layout">
 <aside class="sidebar"><div class="brand"><div class="brandmark"><span class="logo">◈</span><span>商情观测</span></div><small>MARKET INTELLIGENCE</small></div><div id="desktopnav" class="nav-groups" aria-label="分类与管理导航"></div><div class="side-bottom"><div><span class="dot"></span>零新增费用 · 晨间商业情报</div>商业机会为核心 · 行业资讯为支撑<br>北京时间每天 06:00 计划更新</div></aside>
 <div class="main"><div class="topbar"><div><div class="eyebrow">Business Intelligence · 2026</div><h1>AI 商业情报中心</h1><div class="subtitle">从市场信号到商业判断 · 美妆个护产业链优先</div></div><div class="actions"><span class="badge-live"><span class="dot"></span><span id="modeText">读取中</span></span><button class="btn" id="exportBtn">导出数据 ↗</button><button class="btn primary" id="syncBtn">↻ 立即更新</button></div></div>
 <div class="hero"><div><div class="eyebrow" style="color:#5E9DB8">MORNING INTELLIGENCE · 06:00</div><h2>让每一条情报，<strong class="accent">离商业机会更近一步。</strong></h2><p>自动关注品牌动态、公开采购线索、渠道合作、研发配方、包材设计与全球法规。保留来源与核实状态，帮助你筛选真正值得投入时间的事。</p></div><div class="datebox"><strong>06:00</strong><span>北京时间 · 每日更新计划</span></div></div>
@@ -138,8 +179,9 @@ body{background:linear-gradient(140deg,#FBFBF5 0%,#F7FBF9 40%,#F7F9FD 100%);colo
 <div class="metrics"><div class="metric"><span>情报库存量</span><strong id="metricTotal">—</strong><small>公开资讯 · 自动去重</small></div><div class="metric"><span>商业机会相关</span><strong id="metricB">—</strong><small>B类情报 · 主线</small></div><div class="metric"><span>已收藏 / 跟进</span><strong id="metricSaved">—</strong><small>本地保存</small></div><div class="metric"><span>最近采集</span><strong style="font-size:18px" id="metricUpdate">—</strong><small id="metricHealth">本地定时任务</small></div></div>
 <div class="sectionhead"><div><h3>今日重点关注</h3><p>优先商业价值和可核实线索，而非单纯新闻热度</p></div><button class="linkplain" id="showB">查看商业机会 →</button></div><div class="featuregrid" id="features"></div>
 <div class="sectionhead"><div><h3 id="listHeading">全部情报</h3><p id="listSubheading">八个板块 · B类70% / A类20% / C类10% （目标权重）</p></div><span class="subtitle" id="resultCount"></span></div>
+<div id="boardGuide" class="board-guide"></div>
 <div class="workarea"><div class="panel"><div class="toolbar"><input id="keyword" class="search" placeholder="搜索品牌 / 包材 / 采购 / 成分 / 关键词…"><select id="categorySelect"><option value="all">全部板块</option></select><select id="sortSelect"><option value="newest">最新发布</option><option value="score">重要程度</option></select></div><div id="articleList"></div><div style="text-align:center;padding:15px;border-top:1px solid #f0f2f2"><button class="btn" id="loadMore">显示更多资讯 ↓</button></div></div><aside class="aside"><div class="panel pad"><div class="infoBox"><strong>情报结构建议</strong><b>70 / 20 / 10</b><p>商业机会 / 行业技术合规 / 跨行业观察<br>化妆品及上下游占信息绝大多数。</p></div><div class="asideLabel">三层情报架构</div><div class="layer"><span class="name">B · 商业机会</span><div class="bar"><i style="width:70%"></i></div><b>70%</b></div><div class="layer"><span class="name">A · 行业支持</span><div class="bar"><i style="width:20%;background:#76a8ba"></i></div><b>20%</b></div><div class="layer"><span class="name">C · 未来观察</span><div class="bar"><i style="width:10%;background:#deb47f"></i></div><b>10%</b></div><div class="asideLabel">权威信息核实入口</div><a class="quicklink" target="_blank" rel="noopener" href="https://www.nmpa.gov.cn/">国家药品监督管理局 <span>↗</span></a><a class="quicklink" target="_blank" rel="noopener" href="https://www.fda.gov/cosmetics">美国 FDA 化妆品 <span>↗</span></a><a class="quicklink" target="_blank" rel="noopener" href="https://single-market-economy.ec.europa.eu/sectors/cosmetics_en">欧盟化妆品官方入口 <span>↗</span></a><div class="notice">情报来源不等于官方确认。采购、法规及投资事项必须核对原始材料。界面中的商业提示为规则建议，不是AI核实结论。</div></div></aside></div><div class="footnote">商情观测 · 云端免费版　|　仅采集公开标题与链接，尊重原站版权与访问规则　|　非投资建议</div></div></div>
-<div class="overlay" id="overlay"><div class="modal"><button class="close" id="closeModal">✕</button><div id="modalContent"></div></div></div><input id="importFile" type="file" accept="application/json" style="display:none">
+<nav class="mobileNav" id="mobileNav"></nav><div class="overlay" id="overlay"><div class="modal"><button class="close" id="closeModal">✕</button><div id="modalContent"></div></div></div><input id="importFile" type="file" accept="application/json" style="display:none">
 <script>
 const CATS=[['all','总览','◎','全部情报'],['market','市场需求与行业趋势','◫','市场需求'],['brand','品牌动态与潜在客户','◈','品牌与客户'],['orders','采购订单与商业合作','◉','采购与订单'],['channels','销售渠道与商业模式','⇄','渠道与模式'],['research','产品研发与配方原料','⚗','研发与原料'],['packaging','包材工艺与产品设计','⬡','包材与设计'],['regulation','政策法规与合规风险','§','政策与合规'],['future','跨行业商机与投资观察','⌁','未来投资']];
 const BASE=[
@@ -178,8 +220,155 @@ function buildNav(){
 }
 function scoped(){let arr=[...S.items];let f=S.filter;if(f==='saved')arr=arr.filter(x=>['saved','following'].includes(stateOf(x)));else if(f==='following')arr=arr.filter(x=>stateOf(x)==='following');else if(f!=='all')arr=arr.filter(x=>x.category===f);if(S.keyword){let q=S.keyword.toLowerCase();arr=arr.filter(x=>[x.title,x.source,x.category,x.related,x.guidance].join(' ').toLowerCase().includes(q));}arr.sort((a,b)=>S.sort==='score'?((+b.score)-(+a.score)||new Date(b.published)-new Date(a.published)):(new Date(b.published||0)-new Date(a.published||0)||(+b.score)-(+a.score)));return arr;}
 function cardTag(i){return `<span class="tag ${i.group_type==='C'?'gold':i.group_type==='A'?'blue':''}">${escapeHTML(i.group_type)}类 · ${escapeHTML(catName(i.category))}</span>`}
-function features(){const val=S.items.filter(x=>x.group_type==='B').sort((a,b)=>Number(b.score)-Number(a.score)||new Date(b.published||0)-new Date(a.published||0)).slice(0,3);el('features').innerHTML=val.length?val.map(x=>`<article class="feature" data-open="${escapeHTML(x.id)}"><div class="tagrow">${cardTag(x)} <span class="tag gray">${'★'.repeat(Math.min(5,x.score||3))}</span></div><h4>${escapeHTML(x.title)}</h4><p>${escapeHTML(x.guidance)}</p><footer><span>${escapeHTML(x.source||'信息源')}</span><span>${fmt(x.published)} ↗</span></footer></article>`).join(''):`<div class="empty" style="grid-column:1/-1"><strong>暂无可展示的商业机会</strong>启动后台并刷新采集后显示；真实订单必须另行核实。</div>`;}
-function render(){buildNav();const n=S.items.length,b=S.items.filter(x=>x.group_type==='B').length,saved=S.items.filter(x=>['saved','following'].includes(stateOf(x))).length;el('metricTotal').textContent=S.total||n;el('metricB').textContent=b;el('metricSaved').textContent=saved;el('metricUpdate').textContent=S.lastSuccess?fmt(S.lastSuccess):'等待首次采集';el('metricHealth').textContent=S.mode==='local-live'?'本地数据自动入库':S.mode==='cloud-live'?'云端信息源自动更新':'仅供预览 · 示例资讯';el('modeText').textContent=S.mode==='local-live'?'本地运行中':S.mode==='cloud-live'?'云端网页版':'演示预览模式';features();const arr=scoped();el('listHeading').textContent=S.filter==='saved'?'我的收藏':S.filter==='following'?'商机跟进':S.filter==='all'?'八大板块情报':catName(S.filter);el('resultCount').textContent=`当前 ${arr.length} 条`;el('categorySelect').value=CATS.some(c=>c[0]===S.filter)?S.filter:'all';el('keyword').value=S.keyword;el('sortSelect').value=S.sort;const sub={sample:'当前展示2026年10月公开报道样本；不是今日自动更新结果。', 'cloud-live':'云端每日定时更新：资讯由公开RSS收集；涉及订单或法规请核验原文。', 'local-live':'仅收录公开资讯标题和链接，AI分析由ChatGPT独立日报提供。'};let sta=S.status;let warnings=sta.failed_sources?` / ${sta.failed_sources}个源失败（检查本地网络或地区限制）`:'';el('noticeLine').textContent=S.mode==='local-live'?`已连接本地资料库 · ${sta.running?'正在联网采集…':('上次成功更新：'+(S.lastSuccess?S.lastSuccess.replace('T',' ').slice(0,19):'尚无成功采集'))} · 本次新增 ${sta.new_items||0} 条${warnings}`:(S.mode==='cloud-live'?`云端更新状态 · 上次成功采集：${S.lastSuccess||'未完成'} · 本次新增 ${sta.new_items||0} 条${warnings} · 原始资讯未逐条人工核实`:sub.sample);el('listSubheading').textContent=S.filter==='all'?'按时间与重要性筛选，点击标题查看下一步建议':'搜索可跨板块进行；收藏与备注只存储在当前浏览器，不会同步到其他设备';el('loadMore').classList.toggle('hidden',arr.length<=S.limit);el('articleList').innerHTML=arr.length?arr.slice(0,S.limit).map(i=>`<article class="article"><div style="min-width:0;flex:1"><div class="tagrow">${cardTag(i)} <span class="tag gray">${escapeHTML(i.status)}</span></div><span class="title" data-open="${escapeHTML(i.id)}">${escapeHTML(i.title)}</span><p class="desc">建议核实：${escapeHTML(i.guidance||'查看原始信息并核对真实性。')}</p><div class="info"><span>${escapeHTML(i.source||'来源待核实')}</span><span>${fmt(i.published)}</span><span>关联：${escapeHTML(i.related||'待判断')}</span></div><button class="mini-btn ${stateOf(i)!=='unread'?'on':''}" data-save="${escapeHTML(i.id)}">${stateOf(i)==='following'?'● 跟进中':stateOf(i)==='saved'?'★ 已收藏':'☆ 收藏 / 跟进'}</button></div><div class="score">${'★'.repeat(i.score||1)}</div></article>`).join(''):`<div class="empty"><strong>暂无匹配资讯</strong>可切换板块、清空搜索条件，或启动采集更新。<br>采购栏目没有可核实信息时不会虚构订单。</div>`;}
+
+// Per-board interpretation: the business question is more important than the raw headline.
+const BOARD_GUIDES={
+ all:{level:'B',icon:'☀',title:'从新闻走向商机：先看事实，再判断是否值得跟进',desc:'每天优先浏览核心商机。你不必读完所有新闻，只需找出能够带来客户、订单、产品差异化和渠道增长的信号。',find:'企业是否有明确采购、发布新品、渠道扩张或消费者需求变化',gain:'区分已发生的事件、可验证的合作线索和纯行业观察',use:'每天收藏最值得深入研究的3条，其余不占用决策时间'},
+ today:{level:'B',icon:'☀',title:'今日重点：把阅读时间留给高价值情报',desc:'此处为自动排序的商业线索，不代表已经核实成订单；优先看原文、采购官方公告和合作方信息。',find:'谁在扩张、谁在采购、哪里出现新需求',gain:'快速判断商业价值与可核实程度',use:'形成当天最多3项具体动作'},
+ history:{level:'B',icon:'▤',title:'历史情报库：观察连续变化，而非单篇热度',desc:'把企业或技术的连续动态放在一起看，才能知道趋势有没有转化成真实市场。',find:'同一品牌反复出现的扩张、融资、采购或技术信息',gain:'识别长期方向及变化速度',use:'用关键词查历史并比较前后事件'},
+ market:{level:'B',icon:'◉',title:'① 市场需求：找到下一批愿意付费的人',desc:'不只看行业规模，更看需求来自哪些人群、场景、国家和价格带。',find:'新增需求、消费者痛点、品类增速、消费场景与价格带',gain:'判断洗护、香氛及功能护肤哪个细分市场正在形成真实需求',use:'选择值得立项的品类，避免因为热门概念盲目做新品'},
+ brand:{level:'B',icon:'◇',title:'② 品牌与客户：发现潜在OEM/ODM客户',desc:'品牌融资、新品发布、进入新国家和渠道变化，都是值得追踪的供需信号；不是自动等于采购意向。',find:'新品牌、融资、产品线扩张、海外渠道布局与供应链变化',gain:'判断谁可能需要代工、包材、配方或跨境合规支持',use:'建立潜在客户清单，再验证是否存在实际合作窗口'},
+ orders:{level:'B',icon:'◎',title:'③ 采购与订单：从信息中找可验证的生意',desc:'这是最需要严谨核实的板块。新闻标题包含“采购”不代表一定有公开招标，更不代表圆方符合供应条件。',find:'采购公告原文、预算与品类、供应商资格、截止日期和联系人公示',gain:'筛出值得信弘达或圆方进一步核实的采购需求',use:'先核实官方入口与资质，再决定是否投入业务跟进'},
+ channels:{level:'B',icon:'⇄',title:'④ 渠道与模式：找到更高效的卖货方式',desc:'关注渠道迁移、零售合作和分销模式，优先选择能够低成本试验的做法。',find:'品牌进入新平台、开店、分销、联名、经销和跨境合作',gain:'借鉴适合洗护、文旅礼赠及香氛产品的渠道打法',use:'先挑一个可复制渠道做小样试点，再扩大投入'},
+ research:{level:'A',icon:'⚗',title:'⑤ 研发与原料：把技术转化为可销售的产品',desc:'要同时看技术证据、可配方化程度、成本和合规，不能只看新概念。',find:'新原料、配方思路、功效证据、专利、活性技术和实验方法',gain:'为Q-LAB与圆方产品开发找到真正的差异化切入点',use:'核对证据与法规，提出可小试验证的产品方向'},
+ packaging:{level:'A',icon:'⬡',title:'⑥ 包材与设计：在成本可控前提下提升产品价值',desc:'关注结构、材料、使用体验和视觉语言，避免只有美感却不能量产。',find:'新瓶型、泵头、补充装、环保材料、工艺、视觉与结构专利',gain:'发现可以提升货架识别度、便利性和毛利空间的包装方式',use:'验证MOQ、模具费用、兼容性、交期及设计保护风险'},
+ regulation:{level:'A',icon:'§',title:'⑦ 政策与合规：提前规避经营和出口风险',desc:'法规新闻只当提醒入口，必须以主管部门原文、生效日期和适用范围为准。',find:'新规原文、适用市场、成分限制、标签、宣称、检测及出口要求',gain:'提前识别配方和包材是否需要调整、客户准入是否受影响',use:'由法规或质量负责人核实，并建立影响清单'},
+ future:{level:'C',icon:'✧',title:'⑧ 未来投资：小比例拓宽视野，不干扰主营业务',desc:'关注能够形成付费需求的新产业，但避免把融资消息或市场热度等同于投资机会。',find:'实际收入、核心技术、市场进入门槛、成本结构及政策风险',gain:'形成跨行业长期观察清单，识别未来可以深入研究的赛道',use:'先看真实商业化与现金流，不急于投资'},
+ saved:{level:'B',icon:'☆',title:'我的收藏：把有用的信息留给未来',desc:'这是当前浏览器里的个人标记，不会自动同步到其他手机或电脑。',find:'此前发现的客户、产品和法规线索',gain:'积累自己的商业判断素材',use:'按周回看，删除没有后续价值的信息'},
+ following:{level:'B',icon:'↗',title:'商机跟进：资讯需要变成行动才有意义',desc:'重点记录验证过程和下一步事项，尤其要注明“已核实”与“待核实”。',find:'官方联系方式、产品报价条件、资格和截止时间',gain:'减少重复调研及遗漏',use:'有进展时更新备注，形成可追踪的机会池'}
+};
+function guideFor(f){return BOARD_GUIDES[f]||BOARD_GUIDES.all}
+function renderGuide(){
+  const f=S.view||S.filter,g=guideFor(f),root=el('boardGuide');
+  if(!root)return;
+  root.className='board-guide level-'+g.level;
+  root.innerHTML=`<div class="guide-top"><span class="guide-icon">${g.icon}</span><div><div class="guide-title">${escapeHTML(g.title)}</div><p class="guide-description">${escapeHTML(g.desc)}</p></div></div><div class="guide-columns"><div class="guide-cell"><span>看什么</span><p>${escapeHTML(g.find)}</p></div><div class="guide-cell"><span>能得到什么信息</span><p>${escapeHTML(g.gain)}</p></div><div class="guide-cell"><span>对你有什么帮助</span><p>${escapeHTML(g.use)}</p></div></div><p class="guide-caveat">页面中的中文速读由公开标题与关键词规则生成，属于初步解读；未阅读全文，也不能作为已核实的招标、配方或监管事实。</p>`;
+}
+// Deterministic, no-cost interpretation of a headline. Do not invent facts absent from the headline.
+const TOPIC_CUES=[
+ {test:/招标|采购|供应商招募|supplier(s)? (sought|needed)|procurement|tender|bid invitation|request for proposal|\bRFP\b/i,summary:'涉及公开采购或供应合作线索，需查证是否有真实采购公告、采购范围及投标条件。',gain:'可能找到采购方、供应品类、准入资格、报名或截止时间。',idea:'先核对官方采购公告，再判断圆方或信弘达是否具备供货资格。'},
+ {test:/融资|投资|investment|funding|raises? (?:\$|[0-9])|series [abc]|acquisition|acquires|merger|并购/i,summary:'涉及品牌融资、投资或并购消息，企业后续的经营与供应链布局值得观察。',gain:'关注资金用途、目标市场、业务扩张计划和产品线调整。',idea:'将其作为潜在客户变化信号，不能直接认定已经产生代工订单。'},
+ {test:/合规|监管|法规|禁用|限制|recall|FDA|EU regulation|regulatory|regulations|compliance|regulation|MoCRA|ingredient ban|safety standard/i,summary:'涉及法规、质量安全或产品合规相关动态，实际适用条件应以官方原文为准。',gain:'关注生效时间、适用地区、受影响原料/产品和企业义务。',idea:'对照美国、欧盟或国内客户清单，排查配方、标签与供应链资料。'},
+ {test:/包装|包材|泵头|软管|瓶型|packaging|pump|dispenser|refill|bottle|tube|sustainable pack|recyclable/i,summary:'涉及包装结构、材料或可持续包装的新方案，值得研究是否适合洗护及香氛产品。',gain:'关注容器结构、材料、可回收性、灌装适配与使用体验。',idea:'向包材供应商询价并验证起订量、专利、成本和量产可行性。'},
+ {test:/成分|原料|功效|配方|extract|ingredient|formulation|peptide|microbiome|ferment|clinical|bioactive|patent|delivery technolog/i,summary:'涉及化妆品原料、配方或功效技术动态，需区分科研成果和可量产方案。',gain:'关注技术作用机制、证据质量、使用浓度、应用配方及法规。',idea:'筛选能够纳入Q-LAB小试和圆方产品提案的技术方向。'},
+ {test:/开设|开店|旗舰店|入驻|expands? into|opening|open(s|ed)? (?:first|new|store|flagship)|flagship|store(s)? in|enter(s|ed|ing)? (?:the|new|[A-Z]|market)|launches? in|debut(s|ed)? in|expansion|retail footprint/i,summary:'涉及品牌进入新区域、开设门店或扩大零售覆盖，反映渠道拓展动作。',gain:'关注落地市场、渠道伙伴、门店定位和新品供应方式。',idea:'追踪当地成长品牌及供应链需求；不要把开店直接视为OEM招募。'},
+ {test:/分销|代理|经销|合作|联名|partnership|partner(s|ed)? with|collaborat|distribution|distributor|channel|retailer|marketplace/i,summary:'涉及渠道合作、分销或品牌联动，可从合作方式和目标客群寻找启发。',gain:'关注双方分工、覆盖市场、销售渠道与合作产品组合。',idea:'比较是否能迁移到酒店用品、旅行装、茶室和香氛礼赠渠道。'},
+ {test:/新品|上市|推出|新系列|产品线|launch(es|ed|ing)?|introduc(es|ed|ing)?|unveil(s|ed)?|new (?:range|line|product|collection)|skincare|haircare|fragrance|perfume/i,summary:'涉及新品或产品系列动态，适合快速了解品类、卖点和消费场景。',gain:'关注产品定位、主张、香型/功效、规格、价格带与上市渠道。',idea:'研究是否适合圆方OEM提案、源采产品延伸或半柴香氛创新。'},
+ {test:/市场|消费者|趋势|报告|需求|forecast|market size|consumer|demand|industry growth|research report|trend(s)?|survey|analysis/i,summary:'涉及市场规模、消费者变化或行业预测，需核对数据口径及统计时间。',gain:'关注哪类消费者、市场、价格带正在形成可持续的需求。',idea:'结合既有销售数据判断是否值得调整新品方向，而非只凭预测投入。'},
+ {test:/AI|artificial intelligence|agentic|robot|自动化|智能制造|机器人|biotech|生物技术|technology|innovation/i,summary:'涉及新技术或商业化应用，核心要看实际落地场景而不是技术热度。',gain:'关注付费客户、部署成本、应用效率、技术壁垒与收入证据。',idea:'先评估是否可改善现有经营效率，再考虑长期跨行业投资观察。'}
+];
+function leadingEntity(t){
+ if(!/[a-z]/i.test(t))return '';
+ let m=t.match(/^(.{2,58}?)(?=\s+(?:to|launches?|introduces?|unveils?|opens?|expands?|partners?|announces?|debuts?|enters?|secures?|raises?|plans?|aims?|reveals?|develops?|builds?|backs?|signs?|brings?|sets?|rolls?|makes?|is|will|report(s)?|show(s)?)\b|\s*[:,])/i);
+ if(!m)return '';
+ let p=m[1].replace(/\s+(and|with)$/i,'').replace(/[^a-z0-9)&.!+\-\s]/gi,'').trim();
+ if(!p||p.length>44||/^(in|as|the|new|how|why|what|beauty|report)$/i.test(p))return '';
+ return p;
+}
+function titleInsight(i){
+ let t=String(i.title||'').trim(),guide=guideFor(i.category),isEnglish=/[A-Za-z]/.test(t)&&!/[\u4E00-\u9FFF]/.test(t);
+ let cue=TOPIC_CUES.find(k=>k.test.test(t));
+ // Category and explicit phrases take precedence over broad words such as 'expands into'.
+ if(/distribution|distributor|partnership|partner(s|ed)? with|collaborat/i.test(t)) cue=TOPIC_CUES[6];
+ if(i.category==='future'&&/series [abc]|funding|invest|raises? /i.test(t)) cue=TOPIC_CUES[1];
+ let lead=leadingEntity(t);
+ let summary='';
+ if(!isEnglish){
+   // The original news headline is already Chinese: use it as the factual quick read.
+   summary=t.length>91?t.slice(0,88)+'…':t;
+ }else if(cue){
+   summary=(lead?lead+'：':'')+cue.summary;
+   const locNames={'qatar':'卡塔尔','france':'法国','paris':'巴黎','germany':'德国','indonesia':'印度尼西亚','india':'印度','japan':'日本','china':'中国','korea':'韩国','singapore':'新加坡','malaysia':'马来西亚','philippines':'菲律宾','thailand':'泰国','vietnam':'越南','united states':'美国','usa':'美国','u.s.':'美国','uk':'英国','united kingdom':'英国','uae':'阿联酋','saudi arabia':'沙特阿拉伯','new york':'纽约','australia':'澳大利亚','middle east':'中东'};
+   const inLoc=Object.entries(locNames).find(([en])=>new RegExp('\\b(?:in|into|across|throughout)\\s+(?:the\\s+)?'+en.replace(/[.]/g,'\\.')+'\\b','i').test(t));
+   if(inLoc&&/opening|open|launch|enter|debut|expand/i.test(t)){
+     const isPlanned=/\bto\s+(?:open|launch|enter|expand|debut)\b|plans to/i.test(t);
+     summary=(lead?lead+'：':'海外品牌动态：')+(isPlanned?'计划':'报道显示')+'在'+inLoc[1]+'开展市场或渠道布局，建议关注具体合作模式。';
+   }
+   if(/distribution|distributor/i.test(t)){
+     let owner=t.match(/owner of ([A-Za-z0-9-]{2,30})/i);
+     summary=(lead?lead+(owner?'（'+owner[1]+'相关企业）':'')+'：':'品牌动态：')+'报道涉及美妆分销业务拓展，值得关注经销体系与渠道伙伴。';
+   }
+   if(i.category==='future'&&/funding|series [abc]|invest|raises? /i.test(t)){
+     summary=(lead?lead+'：':'')+'报道涉及新技术企业融资；应关注实际落地、收入与客户，而非仅看估值。';
+   }
+   if(/foam pumps?/i.test(t)&&/market|forecast/i.test(t)){
+     summary='泡沫泵等个护包材市场预测动态；需要核查报告数据口径、需求来源和实际市场规模。';
+   }
+ }else{
+   summary='这条海外报道涉及'+catName(i.category)+'；标题提供的信息不足，需打开原文确认具体事件。';
+ }
+ let gain=cue?cue.gain:guide.gain;
+ let idea=cue?cue.idea:guide.use;
+ // For procurement/compliance do not allow general topic guidance to masquerade as confirmation.
+ if(i.category==='orders'){
+   gain='重点核实采购主体、正式公告、采购品类、资质、预算和截止日期。';
+   idea='先确认是否存在可参与的真实采购，再安排信弘达或圆方跟进。';
+ }
+ if(i.category==='regulation'){
+   gain='重点核查监管机构、原文、生效日期、适用国家与产品范围。';
+   idea='将可能受影响的配方、标签或出口订单交给合规团队复核。';
+ }
+ if(i.category==='future'){
+   gain='重点了解付费需求、客户、商业模式、竞争壁垒和收入证据。';
+   idea='先进入长期观察清单，不因单条融资或技术新闻作出投资决策。';
+ }
+ return {summary,gain,idea,english:isEnglish,confidence:isEnglish?'基于英文标题的中文提示':'依据中文原标题'};
+}
+function deepResearchPrompt(i){
+ const ins=titleInsight(i),g=guideFor(i.category);
+ return `请作为我的商业情报分析师分析以下公开资讯。\n原标题：${i.title}\n中文速读（系统仅凭标题生成，不是已核实摘要）：${ins.summary}\n来源：${i.source||'未知'}，发布日：${fmt(i.published)}\n原始链接：${i.link||'无'}\n板块：${catName(i.category)}\n研究目标：${g.desc}\n请先打开或核实原文及发布时间，严格区分报道事实、推断和未知信息；以化妆品/酒店洗护/香氛及其供应链为主，判断对圆方OEM/ODM、信弘达贸易、源采与半柴的商业价值。用中文给出：①100字以内事实简述；②可以获得的关键数据与线索；③2-3个商业启发；④可执行的下一步；⑤是否为确认的公开采购订单及依据。如无法核实正文，明确说明，不要编造客户或采购需求。`;
+}
+async function copyResearch(){
+ const i=S.items.find(x=>x.id===S.focused);if(!i)return;
+ const txt=deepResearchPrompt(i);
+ try{await navigator.clipboard.writeText(txt);alert('已复制分析问题，可直接粘贴到ChatGPT继续研究。');}
+ catch(e){const ta=document.createElement('textarea');ta.value=txt;document.body.appendChild(ta);ta.select();let ok=document.execCommand('copy');ta.remove();alert(ok?'已复制，粘贴到ChatGPT即可。':'自动复制不可用，请从原始链接进入文章。');}
+}
+
+function features(){
+ const val=S.items.filter(x=>x.group_type==='B').sort((a,b)=>Number(b.score)-Number(a.score)||new Date(b.published||0)-new Date(a.published||0)).slice(0,3);
+ el('features').innerHTML=val.length?val.map(x=>{
+   const ins=titleInsight(x);
+   return `<article class="feature" data-open="${escapeHTML(x.id)}"><div class="tagrow">${cardTag(x)} <span class="tag gray">${'★'.repeat(Math.min(5,x.score||3))}</span></div>
+   <div class="feature-summary">${escapeHTML(ins.summary)}</div>
+   <p class="origin-title">原标题：${escapeHTML(x.title)}</p>
+   <p class="feature-idea"><strong>可借鉴：</strong>${escapeHTML(ins.idea)}</p>
+   <footer><span>${escapeHTML(x.source||'信息源')}</span><span>${fmt(x.published)} · 查看 ↗</span></footer></article>`;
+ }).join(''):`<div class="empty" style="grid-column:1/-1"><strong>暂无可展示的商业机会</strong>启动后台并刷新采集后显示；真实订单必须另行核实。</div>`;
+}
+function render(){
+ buildNav();
+ const n=S.items.length,b=S.items.filter(x=>x.group_type==='B').length,saved=S.items.filter(x=>['saved','following'].includes(stateOf(x))).length;
+ el('metricTotal').textContent=S.total||n;el('metricB').textContent=b;el('metricSaved').textContent=saved;
+ el('metricUpdate').textContent=S.lastSuccess?fmt(S.lastSuccess):'等待首次采集';
+ el('metricHealth').textContent=S.mode==='local-live'?'本地数据自动入库':S.mode==='cloud-live'?'云端信息源自动更新':'仅供预览 · 示例资讯';
+ el('modeText').textContent=S.mode==='local-live'?'本地运行中':S.mode==='cloud-live'?'云端网页版':'演示预览模式';
+ features();renderGuide();
+ const arr=scoped();
+ el('listHeading').textContent=S.filter==='saved'?'我的收藏':S.filter==='following'?'商机跟进':S.filter==='all'?'八大板块情报':catName(S.filter);
+ el('resultCount').textContent=`当前 ${arr.length} 条`;
+ el('categorySelect').value=CATS.some(c=>c[0]===S.filter)?S.filter:'all';
+ el('keyword').value=S.keyword;el('sortSelect').value=S.sort;
+ const sub={sample:'当前展示2026年10月公开报道样本；不是今日自动更新结果。', 'cloud-live':'公开资讯RSS自动采集，中文速读基于标题规则；重要信息需阅读原文核实。', 'local-live':'仅收录公开资讯标题和链接；深度分析请使用“复制到ChatGPT”。'};
+ let sta=S.status;let warnings=sta.failed_sources?` / ${sta.failed_sources}个源失败（检查本地网络或地区限制）`:'';
+ el('noticeLine').textContent=S.mode==='local-live'?`已连接本地资料库 · ${sta.running?'正在联网采集…':('上次成功更新：'+(S.lastSuccess?S.lastSuccess.replace('T',' ').slice(0,19):'尚无成功采集'))} · 本次新增 ${sta.new_items||0} 条${warnings}`:(S.mode==='cloud-live'?`云端更新状态 · 上次成功采集：${S.lastSuccess||'未完成'} · 本次新增 ${sta.new_items||0} 条${warnings} · 中文速读是标题级初判，须核实原文`:sub.sample);
+ el('listSubheading').textContent=S.filter==='all'?'先看中文速读，再判断能获取什么信息、能带来什么商业启发':'搜索可跨板块进行；收藏与备注只存储在当前浏览器，不会同步到其他设备';
+ el('loadMore').classList.toggle('hidden',arr.length<=S.limit);
+ el('articleList').innerHTML=arr.length?arr.slice(0,S.limit).map(i=>{
+   const ins=titleInsight(i);
+   return `<article class="article"><div style="min-width:0;flex:1">
+    <div class="tagrow">${cardTag(i)} <span class="tag gray">${escapeHTML(i.status)}</span></div>
+    <span class="title main-zh" data-open="${escapeHTML(i.id)}">${escapeHTML(ins.summary)}</span>
+    <p class="origin-title">原标题：${escapeHTML(i.title)}</p>
+    <div class="insight-rows">
+      <div class="insight-line"><span class="prefix">能获取</span><span>${escapeHTML(ins.gain)}</span></div>
+      <div class="insight-line idea"><span class="prefix">商业启发</span><span>${escapeHTML(ins.idea)}</span></div>
+    </div>
+    <div class="info" style="margin-top:11px"><span>${escapeHTML(i.source||'来源待核实')}</span><span>${fmt(i.published)}</span><span>关联：${escapeHTML(i.related||'待判断')}</span></div>
+    <button class="mini-btn ${stateOf(i)!=='unread'?'on':''}" data-save="${escapeHTML(i.id)}">${stateOf(i)==='following'?'● 跟进中':stateOf(i)==='saved'?'★ 已收藏':'☆ 收藏 / 跟进'}</button>
+   </div><div class="score">${'★'.repeat(Math.min(5,Number(i.score)||1))}</div></article>`;
+ }).join(''):`<div class="empty"><strong>暂无匹配资讯</strong>可切换板块、清空搜索条件，或启动采集更新。<br>采购栏目没有可核实信息时不会虚构订单。</div>`;
+}
 function navigate(f){
   S.view=f; S.filter=(f==='today'||f==='history')?'all':f;
   S.limit=f==='history'?Math.max(30,S.limit):14;
@@ -191,7 +380,28 @@ function navigate(f){
 }
 
 function saveLocal(id,state,memo){let m=noteMap();m[id]={state,memo};localStorage.setItem('marketNotes',JSON.stringify(m))}
-function detail(id){let i=S.items.find(x=>x.id===id);if(!i)return;S.focused=id;el('modalContent').innerHTML=`<div class="tagrow">${cardTag(i)} <span class="tag gray">${escapeHTML(i.status)}</span></div><h2>${escapeHTML(i.title)}</h2><div class="subtitle">${escapeHTML(i.source)} · ${fmt(i.published)} · 重要度 ${i.score}/5</div><div class="statusline">信息性质：公开资讯线索。当前程序不核实原文全文，不确认任何采购订单或监管结论。</div><label class="label">建议的下一步</label><p>${escapeHTML(i.guidance)}</p><label class="label">关联业务</label><p>${escapeHTML(i.related)}</p><a class="btn primary" style="display:inline-block;text-decoration:none;margin-top:6px" rel="noopener noreferrer" target="_blank" href="${escapeHTML(i.link)}">打开原始信息 ↗</a><label class="label">跟进状态</label><select id="modalStatus"><option value="unread">待阅读</option><option value="saved">已收藏</option><option value="following">跟进中</option><option value="done">已完成</option><option value="ignored">暂不考虑</option></select><label class="label">跟进备注（仅保存在本地）</label><textarea id="modalNote" placeholder="例如：核对采购官网 / 向业务团队确认 / 评估供应商资质……"></textarea><p><button class="btn primary" id="commitNote">保存状态与备注</button></p><div class="muted">特别提示：Google News聚合链接可能跳转到媒体页面；政策或招标应回到正式发布机构核对。</div>`;el('modalStatus').value=stateOf(i);el('modalNote').value=memoOf(i);el('overlay').classList.add('show')}
+function detail(id){
+ let i=S.items.find(x=>x.id===id);if(!i)return;S.focused=id;
+ const ins=titleInsight(i),g=guideFor(i.category);
+ const safeLink=/^https?:\/\//i.test(i.link||'')?i.link:'#';
+ el('modalContent').innerHTML=`<div class="tagrow">${cardTag(i)} <span class="tag gray">${escapeHTML(i.status)}</span></div>
+ <h2>${escapeHTML(ins.summary)}</h2>
+ <p class="origin-title">原标题：${escapeHTML(i.title)}</p>
+ <div class="subtitle">${escapeHTML(i.source)} · ${fmt(i.published)} · 重要度 ${i.score}/5</div>
+ <div class="statusline">${escapeHTML(ins.confidence)}。不是原文全文摘要，尚未核实采购需求、法规结论或实际成交。</div>
+ <div class="detail-block"><strong>能从这条信息了解什么</strong><p>${escapeHTML(ins.gain)}</p></div>
+ <div class="detail-block ideas"><strong>对你有什么商业启发</strong><p>${escapeHTML(ins.idea)}</p></div>
+ <div class="detail-block"><strong>所属板块的长期价值</strong><p>${escapeHTML(g.gain)}</p></div>
+ <div class="detail-block"><strong>建议下一步</strong><p>${escapeHTML(i.guidance||'打开原始资讯核实信息。')}</p></div>
+ <label class="label">关联业务</label><p>${escapeHTML(i.related)}</p>
+ <div class="detail-actions"><a class="btn primary" style="display:inline-block;text-decoration:none" rel="noopener noreferrer" target="_blank" href="${escapeHTML(safeLink)}">打开原始信息 ↗</a><button class="btn" id="copyResearchBtn">复制到ChatGPT深入分析</button></div>
+ <p class="detail-source-note">复制后可粘贴到ChatGPT，让其核验原文并结合圆方、信弘达、源采、半柴提出可执行建议。不会自动付费或调用外部AI接口。</p>
+ <label class="label">跟进状态</label><select id="modalStatus"><option value="unread">待阅读</option><option value="saved">已收藏</option><option value="following">跟进中</option><option value="done">已完成</option><option value="ignored">暂不考虑</option></select>
+ <label class="label">跟进备注（仅保存在本地）</label><textarea id="modalNote" placeholder="例如：核对采购官网 / 联系供应商了解起订量 / 研究品牌产品线……"></textarea>
+ <p><button class="btn primary" id="commitNote">保存状态与备注</button></p>
+ <div class="muted">平台只采集标题与链接；采购、配方、法规、投资判断必须查证原始材料。</div>`;
+ el('modalStatus').value=stateOf(i);el('modalNote').value=memoOf(i);el('overlay').classList.add('show');
+}
 async function commit(){let i=S.items.find(x=>x.id===S.focused);if(!i)return;let state=el('modalStatus').value,memo=el('modalNote').value;if(S.mode==='local-live'){try{const r=await fetch('/api/note',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({id:i.id,state,memo})});if(!r.ok)throw Error('save failed');i.note_state=state;i.memo=memo;}catch(e){alert('保存失败，请检查本地后台运行状态');return}}else saveLocal(i.id,state,memo);el('overlay').classList.remove('show');render();}
 function exportData(){let rows=S.items.map(i=>({...i,note_state:stateOf(i),memo:memoOf(i)}));let out=JSON.stringify({exported_at:new Date().toISOString(),items:rows},null,2);let blob=new Blob([out],{type:'application/json;charset=utf-8'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='商情观测_情报备份_'+new Date().toISOString().slice(0,10)+'.json';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)}
 async function refresh(){
@@ -204,5 +414,5 @@ if(data&&Array.isArray(data.items)){
 render();
 }
 async function sync(){if(S.mode!=='local-live'){await refresh();alert(S.mode==='cloud-live'?'已刷新网页缓存。云端每日北京时间06:00计划自动采集，如更新延迟请查看网站中的最近成功采集时间。':'当前是单文件示例，尚未部署云端数据采集。');return;}el('syncBtn').innerHTML='<span class="spinner"></span> 采集中';try{let r=await fetch('/api/sync',{method:'POST',headers:{'Content-Type':'application/json'},body:'{}'});if(!r.ok)throw Error('更新失败');let cycles=0;let timer=setInterval(async()=>{cycles++;await refresh();if(!S.status.running||cycles>45){clearInterval(timer);el('syncBtn').textContent='↻ 立即更新'}},1700);}catch(e){el('syncBtn').textContent='↻ 立即更新';alert('更新失败：请检查网络或重新启动平台。')}}
-document.addEventListener('click',e=>{let nav=e.target.closest('[data-nav]');if(nav){navigate(nav.dataset.nav);return}let open=e.target.closest('[data-open]');if(open){detail(open.dataset.open);return}let save=e.target.closest('[data-save]');if(save){detail(save.dataset.save);return}});el('closeModal').onclick=()=>el('overlay').classList.remove('show');el('overlay').onclick=e=>{if(e.target.id==='overlay')el('overlay').classList.remove('show')};el('showB').onclick=()=>navigate('orders');el('keyword').oninput=e=>{S.keyword=e.target.value;S.limit=14;const p=e.target.selectionStart;render();el('keyword').focus();el('keyword').setSelectionRange(p,p)};el('categorySelect').onchange=e=>{S.filter=e.target.value;S.view=S.filter;S.limit=14;render()};el('sortSelect').onchange=e=>{S.sort=e.target.value;render()};el('loadMore').onclick=()=>{S.limit+=15;render()};el('exportBtn').onclick=exportData;el('syncBtn').onclick=sync;document.addEventListener('click',e=>{if(e.target?.id==='commitNote')commit()});refresh();setInterval(()=>{if(S.mode==='local-live'||S.mode==='cloud-live')refresh()},120000);
+document.addEventListener('click',e=>{let nav=e.target.closest('[data-nav]');if(nav){navigate(nav.dataset.nav);return}let open=e.target.closest('[data-open]');if(open){detail(open.dataset.open);return}let save=e.target.closest('[data-save]');if(save){detail(save.dataset.save);return}});el('closeModal').onclick=()=>el('overlay').classList.remove('show');el('overlay').onclick=e=>{if(e.target.id==='overlay')el('overlay').classList.remove('show')};el('showB').onclick=()=>navigate('orders');el('keyword').oninput=e=>{S.keyword=e.target.value;S.limit=14;const p=e.target.selectionStart;render();el('keyword').focus();el('keyword').setSelectionRange(p,p)};el('categorySelect').onchange=e=>{S.filter=e.target.value;S.view=S.filter;S.limit=14;render()};el('sortSelect').onchange=e=>{S.sort=e.target.value;render()};el('loadMore').onclick=()=>{S.limit+=15;render()};el('exportBtn').onclick=exportData;el('syncBtn').onclick=sync;document.addEventListener('click',e=>{if(e.target?.id==='commitNote')commit();if(e.target?.id==='copyResearchBtn')copyResearch()});refresh();setInterval(()=>{if(S.mode==='local-live'||S.mode==='cloud-live')refresh()},120000);
 </script></body></html>
