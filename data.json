@@ -1,0 +1,10 @@
+{
+  "total": 0,
+  "items": [],
+  "status": {
+    "last_success": null,
+    "new_items": 0,
+    "failed_sources": 0,
+    "note": "等待首次数据采集"
+  }
+}
