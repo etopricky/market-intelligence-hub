@@ -11889,12 +11889,78 @@
     }
   ],
   "status": {
-    "last_attempt": "2026-11-14T22:30:07+00:00",
-    "last_success": "2026-11-14T22:30:08+00:00",
-    "fetched_sources": 21,
-    "failed_sources": 9,
-    "new_items": 143,
+    "last_attempt": "2026-11-15T22:33:09+00:00",
+    "last_success": "2026-11-15T22:33:32+00:00",
+    "fetched_sources": 3,
+    "failed_sources": 27,
+    "new_items": 4,
     "errors": [
+      {
+        "category": "brand",
+        "provider": "google",
+        "query": "beauty brand launch funding expansion beauty care when:7d",
+        "message": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "category": "orders",
+        "provider": "google",
+        "query": "酒店 客房 洗护用品 供应商 招标 采购 when:14d",
+        "message": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "category": "brand",
+        "provider": "google",
+        "query": "化妆品 美妆 品牌 融资 新品 扩张 when:7d",
+        "message": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "category": "market",
+        "provider": "google",
+        "query": "beauty personal care fragrance haircare market growth when:7d",
+        "message": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "category": "market",
+        "provider": "google",
+        "query": "化妆品 消费趋势 洗护 香氛 市场 when:7d",
+        "message": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "category": "orders",
+        "provider": "google",
+        "query": "hotel amenities procurement supplier tender shampoo when:14d",
+        "message": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "category": "orders",
+        "provider": "google",
+        "query": "化妆品 OEM ODM 采购 招标 供应商 招募 when:14d",
+        "message": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "category": "orders",
+        "provider": "google",
+        "query": "beauty OEM ODM contract manufacturing supplier tender when:14d",
+        "message": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "category": "channels",
+        "provider": "google",
+        "query": "美妆 香氛 渠道 分销 跨境 合作 when:7d",
+        "message": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "category": "channels",
+        "provider": "google",
+        "query": "beauty retail distribution partnership expansion when:7d",
+        "message": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "category": "research",
+        "provider": "google",
+        "query": "cosmetic ingredients formulation biotechnology research when:14d",
+        "message": "HTTP Error 503: Service Unavailable"
+      },
       {
         "category": "market",
         "provider": "bing",
@@ -11905,12 +11971,6 @@
         "category": "brand",
         "provider": "bing",
         "query": "美妆 护肤 品牌 新品 融资",
-        "message": "syntax error: line 1, column 0"
-      },
-      {
-        "category": "research",
-        "provider": "bing",
-        "query": "化妆品 原料 配方 生物技术",
         "message": "syntax error: line 1, column 0"
       },
       {
@@ -11926,9 +11986,21 @@
         "message": "syntax error: line 1, column 0"
       },
       {
+        "category": "research",
+        "provider": "google",
+        "query": "化妆品 新原料 配方 功效 发酵 科研 when:14d",
+        "message": "HTTP Error 503: Service Unavailable"
+      },
+      {
         "category": "channels",
         "provider": "bing",
         "query": "美妆 香氛 渠道 合作 跨境",
+        "message": "syntax error: line 1, column 0"
+      },
+      {
+        "category": "research",
+        "provider": "bing",
+        "query": "化妆品 原料 配方 生物技术",
         "message": "syntax error: line 1, column 0"
       },
       {
@@ -11948,6 +12020,42 @@
         "provider": "bing",
         "query": "机器人 生物科技 AI 产业发展",
         "message": "syntax error: line 1, column 0"
+      },
+      {
+        "category": "regulation",
+        "provider": "google",
+        "query": "site:nmpa.gov.cn 化妆品 公告 新规 when:30d",
+        "message": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "category": "regulation",
+        "provider": "google",
+        "query": "cosmetics regulations FDA EU MoCRA ingredients when:14d",
+        "message": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "category": "packaging",
+        "provider": "google",
+        "query": "cosmetics packaging innovation refill dispenser design when:14d",
+        "message": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "category": "packaging",
+        "provider": "google",
+        "query": "化妆品 包材 包装 泵头 设计 创新 when:14d",
+        "message": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "category": "future",
+        "provider": "google",
+        "query": "机器人 生物科技 人工智能 创业 商业模式 when:7d",
+        "message": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "category": "future",
+        "provider": "google",
+        "query": "emerging industries AI biotechnology business investment when:7d",
+        "message": "HTTP Error 503: Service Unavailable"
       }
     ],
     "running": false
