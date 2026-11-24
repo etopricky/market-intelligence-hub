@@ -1,6 +1,496 @@
 {
-  "total": 1217,
+  "total": 1288,
   "items": [
+    {
+      "id": "617fce2b89fb1fcdf2",
+      "category": "brand",
+      "title": "Beauty Updates: Jo Malone London Heads to Ulta & More",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN29LLWFNbWQ4bjVmU2oyTm9UTU9zSWw5ejRmQ00zVWJGVnk5OGRHNkY0NGN4V0puQldqZkg5OWJ5QXZTZGRTYkpTY1JrREt6WTV5SnAzeHI4VnluWno3Rm9NTksyejRjcHczRXAtOXpQNWN0WEt5ZGM1TUxPR3Q1VW92TQ?oc=5",
+      "source": "BeautyNewsDaily",
+      "published": "2026-11-24T20:10:37+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
+      "is_core": 1
+    },
+    {
+      "id": "fdecc56401b5c25a82",
+      "category": "channels",
+      "title": "Chocolate Collagen Powder Market Forecast to 2035: Demand Accelerates on Beauty-from-Within and Convenient Nutrition Trends",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRk91MHdzTzY3RFFCajBid2Jpa213SWJQZG1Xc2l5RS0ycDFiSDIzWmt6TGJZaXlzTjl5SDI3VHE5MUZZNk4xVlNXTjBZOURXeXh1SExUVGMwTnAtb09vX0hDcUxkbW1zSWI4TmpJVWZ2N0djZVhySEp0QlhMcFRwT2xnTmNiaHFsVEFYd2pRWl96MmdqZFZDUXpLUVRrYzhWTDRXM182TzdibU9NcFVTSzQ5OVVpc2RlQlRIQ0R1S0Racm9pY1BBdWVkZVRlNVVXNm1QQm55aGZ2Y1ZaVnJfU2JPbDVmWWs?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-24T19:36:05+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
+      "related": "信弘达 · 源采 · 半柴",
+      "is_core": 1
+    },
+    {
+      "id": "a584b1d75c084f966b",
+      "category": "channels",
+      "title": "How K-Beauty Is Expanding Across the GCC Through Retail Partnerships and Consumer Demand",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aMzdVUXhPNjVxVzVoektkUHIyTzllb00yNjFBZksxdWlKaWNHTGNfYU02d0dIb3loSnJ5VWpTczd4S0R3bmNRTlpUZjVCN0tTS2d3d1d3U1hMUkdaNTc1VG9BUlNUaGpVRU85UjdXQnNvYXNRTTVF?oc=5",
+      "source": "BeautyMatter",
+      "published": "2026-11-24T19:12:52+00:00",
+      "group_type": "B",
+      "score": 4,
+      "status": "公开报道·待独立核实",
+      "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
+      "related": "信弘达 · 源采 · 半柴",
+      "is_core": 1
+    },
+    {
+      "id": "93c0114ada854c55a1",
+      "category": "channels",
+      "title": "Nails Assortment Kit Market To 2035: at-Home Manicure Demand Fuels Expansion - News and Statistics",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYThNUEoybWtqcnlIN2hlcTBkMjJaUV9ENTk4S1p3THpGQW12aVhvR01ZYWVva2o1aVg1cWlMUU1RWlJSdDdaRURfZUlMUC0zQVpfYXYtYUVDVERpWE4yMGR1eTZ0R2ZfRUJGTG45NEFESjFLSG1zRndfM1hCN25WMnZ3MlhKMEhrZmFzeFZjdGl3dFF4bnBGam91VGNsYWc2LVpWUmhaLTVNXzJhLVE?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-24T17:26:04+00:00",
+      "group_type": "B",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
+      "related": "信弘达 · 源采 · 半柴",
+      "is_core": 0
+    },
+    {
+      "id": "58744c409366a15e08",
+      "category": "future",
+      "title": "Can Eaton's Solid Order Backlog Sustain Its Growth Momentum?",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNanZqSVRFYUpYQ3MtaF9ZclBWUjZsRmhzS1ZleGlURHdWQzFoRnowY1R4TEd5QVVMc3BBQlpDaUVoMHc5RUFrZUV2ei14dkx3Vnplc0ZrWGFlXzRZcEU4c2NMWWlMVmYxS1B4dmdVVVZxS0tDSThpTkk1WGxmWVBLSkp1ZkNySEVVSUFDdUxMUjNlc1NucTVSMDFYOVFBenZJeFZwZy02Y0duWEt6NlZLMVdEdHpOQQ?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-24T16:56:00+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
+      "id": "e005270f4ffe3b15e8",
+      "category": "brand",
+      "title": "Sisley Paris expands India portfolio with skincare, eyes haircare entry",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQalYwMDIzbi13enBwU0M0S0xsOF91QTJhSXNCMGlGdkdVRHNSWHdMMzR3N2FTQ2h2MTYwWGd2LTZ2RlVGaTNGbC1NSHQwR1d3Y2dEWGJtdjhoWWZSQ2VqNHNKZnpqMjkwQl9sLUE2MkJRdVdST3ZqVXFuT05XME9xai1pTTRNeFAzaG5ZdmxUaC0zd091aFA2em5FbGpfa29VWmhJOFFiTkk1RHUxaW5STFE3eDY5ZW9mdElfb2xjUkpQN0w2TmNBQkxLWXNicVQ3LW5halZ30gHbAUFVX3lxTFBLTjl5V3JGYk5VNk92WlZzUFFESm9GWXFlaFFPcloyREVfY3Vlc3FJeG5OdkdTQVRVM2VBdXJIR0gxUkRyU0JRZVlFejZmUmZaX2ZadE9zSUtzWktGeGZOTEVDbUFmS0doT1dHX2xGa1l6bURaOWpmbnBNUEVELVV4QmVqdTB6NE1SSWFlVUxtUTA2Z3A3cnhrc3lwMm4wT2pLUkVVRFM0Ty10RGFvanpWTnptNk5aUFJ5LXU0Y1FDTk5tUzJjVWdkc1drSzlranhmNXBuc2lTQlUwMA?oc=5",
+      "source": "Business Standard",
+      "published": "2026-11-24T14:16:14+00:00",
+      "group_type": "B",
+      "score": 4,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
+      "is_core": 1
+    },
+    {
+      "id": "9291254707c8d421dc",
+      "category": "channels",
+      "title": "milktouch lands in over 600 Target stores, accelerates global growth",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMU5vZ2pXai1MbGR0R1plZFZobmdZT3NWNC1XcTdmYzBXUXgxSGxvVG1BME4tVWF3UVBWRTI2bWc0T2xkYzllYkJBYUhBQUpfQzBKRVY0ZmtUS2t0dUthRVB0ODhNT0lRcml2OFpNb0c2UTE4S2VwU0d3Y0d3ZndHaEJhY1hjSnZWay16Sy1GdXhJM2ZlUy1QOHZEc05pNC0tanc?oc=5",
+      "source": "Mass Market Retailers",
+      "published": "2026-11-24T13:50:14+00:00",
+      "group_type": "B",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
+      "related": "信弘达 · 源采 · 半柴",
+      "is_core": 0
+    },
+    {
+      "id": "8fc4a526801cfc75b5",
+      "category": "future",
+      "title": "UK-India FTA creates a new blueprint for technology collaboration",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEZfNE5aRHNVODB3YnNLZjB3NDEwRmNSbEIzQXUtYjhmNWdzdThkbkRjam1pYVc3eG1WWmZKZS1xeXdyTWs4TjhhMjBJRTRZRXBsZEd4MUVYN1dPMUtPTENpTTRhbGdkRkJRWVBkelRQanpDUGhySFQ0aDJEenoxd3ZHVmZZQ2lVa1M5NnhPLTdhcG8zQXhXcFZYY2VYWDVLZFFnUDJwSXVjY3ZfbmpaMXhXTzBhZw?oc=5",
+      "source": "New Electronics",
+      "published": "2026-11-24T13:44:04+00:00",
+      "group_type": "C",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
+      "id": "66c21df13f027e081a",
+      "category": "future",
+      "title": "南方财经全媒体集团",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93U0FXS2w4dy1kZW90RDFMV0R1ZHhqR1ZkdVphR3B1VnIxM3QzY1Q0RUJneXphbVg4cTZJbmtZUGRUNVRKTG9wQnZNNGp5VFNDR09vNjVPZ09IajVTOURRSXhIYld6Zlk?oc=5",
+      "source": "南方财经",
+      "published": "2026-11-24T13:20:54+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
+      "id": "5d1da733b9b0750d51",
+      "category": "brand",
+      "title": "milktouch Accelerates Global Expansion With Launch in 600+ U.S. Target Stores and Growing UK Retail Presence",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV093YXJDWURJSGdQMUw5RDNBVGlqbVBfaHBTWVMybk9OOEpUX2c3dHhoRDFhWExWOW54TmloejZMU1ZSWG1UQ3FaaVZ5UEJoWGlRWHJPdzhLYW8wMGhOU2Z0cmtVX3dLWlZ1Z252dmNSbTl1a2ljX0ppc3RVblRwM09BWGREdk5JejVRUzRrT0VrWWZyc3NWUURyaHJ6LS15SUEzRm55YmFYaDZadDdv?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-24T13:13:00+00:00",
+      "group_type": "B",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
+      "is_core": 0
+    },
+    {
+      "id": "a12a2e3095327a1c1b",
+      "category": "brand",
+      "title": "Estée Lauder Companies plans voluntary redundancies in France as part of ‘Beauty Reimagined’ turnaround",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjZ6bzhac2NRUUdHUGVaMXdSOWpGTXM1MkVxNU8xN3k2UWg3VHhncUxQSVBhTWdPQ1U4UTFsOVNfM041VUJodHdIOUZ6d0VucVo5Sy1DMzhZamQwNG1XQWxZUlBwR3ZqX2otbUdBZG5ETDBSTldWSl9KVzFRbmdLQks1MjRuRGtFVzNUdzhkUS1SdmRCMEVkcU1rMnQ?oc=5",
+      "source": "Cosmetics Business",
+      "published": "2026-11-24T12:46:16+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
+      "is_core": 1
+    },
+    {
+      "id": "a81a060a9e9fc9bdc4",
+      "category": "market",
+      "title": "Cosmoprof Asia 2026 celebrates innovations and its outstanding growth",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFZ3RndHVHhESzh2UXlUeDJwVnRsQmlCb3VTNDhMM093aW1lWlIwdGlwVzdfQXE4NVhRcXYtLUlFaHFKOVRURzFqS0xiMTNaSy1lRTFpMGNJVHZ4U0phT00zVE9XOGU5MWRBQ1dGVUxsWThjNGF1cWNmQ0RiMkxaV29tQ3Z1Y0F2WThTVWdhcGNXNTVfRGVwODV6UEc?oc=5",
+      "source": "Cosmetics Business",
+      "published": "2026-11-24T12:34:43+00:00",
+      "group_type": "B",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "识别需求趋势并与现有SKU、产品报价和目标客群交叉验证。",
+      "related": "圆方 · 信弘达 · 源采",
+      "is_core": 0
+    },
+    {
+      "id": "f055e911cc223b5aa9",
+      "category": "brand",
+      "title": "Hashed and Nurihaus Bring U.S. Beauty Investors to Brooklyn for K-Beauty Investor Day",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVFFIazJLNm5XdGVwb0tPT1l3ZUxTY2NMQ0VSNzV6bXg5bDdnNGN1YkNTYTJlU0R2RU5WSHBXRlBaMWxPelVyQWJiM2VvSV9XaWxQcmdHR1RPVUVoVVg4MU1tbjlMWDdmSXh5WFlJNWp5cTJUMEJSUjNDN19jVDZDZTBZUUZUbWpaWGUtaGJvVnhHdDJ0WEFaMHQyZ0dEVXNFWGZ3Z0g0YjZkQkRsUUE?oc=5",
+      "source": "TechBullion",
+      "published": "2026-11-24T12:33:49+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
+      "is_core": 1
+    },
+    {
+      "id": "dca9b6a36b823b4e81",
+      "category": "future",
+      "title": "What Is Belgium Doing To Attract More Businesses?",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSjR0c19ycWxFcUhUT21oZ196VTQwcXBXV3hXbzVJMDJOdjNuejQ1LVBMUExvUldwcHpDeTZQV2JUaWxYdUthLWtiMElqdzRmZlNMc0VNaXV3bUtZMjAxVkdYR0lhbnduSl85UF9kN3lXN185SEVtd3BEa2Fpc3dXR1YyTDBMZ3p2M3c?oc=5",
+      "source": "TechRound",
+      "published": "2026-11-24T12:04:02+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
+      "id": "191325b69b8f80e90d",
+      "category": "brand",
+      "title": "Church & Dwight to enter India in 2027: Batiste, TheraBreath, Hero among 8 global beauty and personal care brands planned",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOeTVBYnBzbUMwY1g2UjlUeU4weXU5Z2lfcGVaSE5COUpNU1lSLV9vZUktam5MLUxkX1J1OW5EQks1WjA1RGk4UjRhdVdOOGxPdTlCUzlnTTdOcFJmMlZPd1JiUFdkanZOaUkzR2VSZ3huQ0tTN09wUVM5N0Y1SXZaTXVHSlhwSE5laF9kRmhTN2JvYjNDd20zUF8xQkNjX2R0UEhsbXhMZDYxdmlHOVN1UTQxWTlqVkwtRGkySjNSMmdRTlpJNjZ4QWg4aUdBRFhTZ2pNTmVwVE1Rb1BWMVdraEhfc2t3Mm1UV2hobGhHalM3UEJYUEdGSV9fb2stWWfSAYQCQVVfeXFMT3lySzFOSl9ac0RPOWpXOElzQUNBVHFUX0p5dVVneGVkZXJLTW5YOGxTRkxYS0pTY1o2XzEyTFlLX1ZKNWxNOXAxNFIyWjJPb3NNc1c2NmE1ZF8yNDRZT3dhQUFnTGQwVC1HNmY1TlRFcWduakxUcWxOTEY5NjYzb3hfNmgwWnlpQnVwNGpTMTJxaVlyT2hHTTVZM21pRmFKR3hLV0VabE1lVUZoajRNYTBzWXc4VGh4dVBRM2xEUHNrbnhkUENWbm9YSTVucEFtMnN6bF9wSU4yaDMtYjlseHFoVEdsV1ZvUGV1ZnlHeDFXSWRrRU1RVXR1Sk51bVI0MmxRTks?oc=5",
+      "source": "ET Now",
+      "published": "2026-11-24T11:41:54+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
+      "is_core": 1
+    },
+    {
+      "id": "fe515affa06cdafafe",
+      "category": "market",
+      "title": "Glass Packaging For Cosmetic Market Size Report, 2035",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeTNxYm4zYWhrUGFBX2l0TVRkX19zNWJpQy1tRmY3SXN6YkpPYTdOb3J5aHdCdFZqdmZPTnBjUHFzWl91eGd5YkJaUmo4OVFaOWg3Q2tjMm9aYkVlWjNabUxJYlJKQWIzWEx0cGRzdFF6TFpyVU1fYVNYRGJIV0N4WFBTYnFTOENjRjd6dU9ZWG90b0pq?oc=5",
+      "source": "Grand View Research",
+      "published": "2026-11-24T11:10:38+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "识别需求趋势并与现有SKU、产品报价和目标客群交叉验证。",
+      "related": "圆方 · 信弘达 · 源采",
+      "is_core": 1
+    },
+    {
+      "id": "e4d9272c7ea42386d8",
+      "category": "orders",
+      "title": "Top 10 Private Label Cosmetics Suppliers in China: Topfeel Beauty’s Sustainable Packaging Edge",
+      "link": "https://www.palmbeachpost.com/press-release/story/268919/top-10-private-label-cosmetics-suppliers-in-china-topfeel-beautys-sustainable-packaging-edge/",
+      "source": "Google News 收录媒体",
+      "published": "2026-11-24T10:04:00+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "采购线索·待官方核实",
+      "guidance": "务必寻找正式采购公告、截止时间、资质要求和联系人；媒体报道不等于真实采购需求。",
+      "related": "圆方 · 信弘达",
+      "is_core": 1
+    },
+    {
+      "id": "19ab2c33c538b0b275",
+      "category": "research",
+      "title": "RX reports record new exhibitor numbers attended in-cosmetics Asia 2026",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcTVZU2c0dHF6RmRZV1YyZUIzN0xLMi1HSW1mRGZneWw5SElrVHlrQmtlWV9fYTdxWWRFOFZuSnU1bTZNVFBtanFpU21xTEFWZ1VGLVB2Sm1USjh3QXpVT2FuYUNlNVFkTVBBVDdINVRUc2N1eXhzMmxLU1d1Q1EySi1fNGRQa3VqSWgyWTd4UUUxdFVac1BoNnZ6UWtNM2M?oc=5",
+      "source": "Exhibition News",
+      "published": "2026-11-24T09:50:41+00:00",
+      "group_type": "A",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "核对INCI/原料合规、配方稳定性、功效证据与量产成本。",
+      "related": "圆方 · Q-LAB",
+      "is_core": 1
+    },
+    {
+      "id": "842b74a2174728e45b",
+      "category": "channels",
+      "title": "Dubai International Chamber's Poland mission supports European expansion | Emirates News Agency",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWVYcXRJaXNBWWdLMzJlbjZpNDhFZE5YWGp3YzU1S2NNdWdJamdiOTBWVGx5NzJzeGlyRm13QjlFV0N2dUpVaE5zNVR2MHpRaVUxWGxvRE5nNFY5d3VrR1Zmajg4ZDR4WVNseUZiT3dhU19wdUxEZUJUTDNpaTY0VDl5bHoxMHpl?oc=5",
+      "source": "www.wam.ae",
+      "published": "2026-11-24T09:35:36+00:00",
+      "group_type": "B",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
+      "related": "信弘达 · 源采 · 半柴",
+      "is_core": 0
+    },
+    {
+      "id": "56a5f894b7c60348f8",
+      "category": "brand",
+      "title": "Mikayla Nogueira’s Plan to Build a Beauty Brand for the Ages",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX1VOaVhwVEphRkdRSzFhblc4RXdQa24xb3loQ21ISTZBdFlwMTlIOHBKZGZTWE5nc2ZqU3NfdjZqazFjQTFwLUdJN2p0Y3VEcUV1THcwTXRnZmNfbmN5OW9tanViY0laQmFsVTNmdV83T1g3aU1ING1icGhHS2M2bFRXSVVSSHZFaVNpQnc3MWZsSjFNZ2ZuZ0tjODRmWk5tUkhTX2tqUS1GdUlF?oc=5",
+      "source": "WWD",
+      "published": "2026-11-24T08:00:06+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
+      "is_core": 1
+    },
+    {
+      "id": "12161b188ce084b0fb",
+      "category": "brand",
+      "title": "WWD Beauty Inc Awards: The Campaigns Behind 8 Winners",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBVVBHWVh0WUhxaVAzUmljRmxGTk9nRnEzQzhpdFo4MTJUZXpkUkpJaGZmR2dSdVJmc1dDLW82Tks4YjZVMUhjbmhVQ3Y0MERlOU56Vm1YdzdzQ28?oc=5",
+      "source": "Everything-PR",
+      "published": "2026-11-24T07:51:33+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
+      "is_core": 1
+    },
+    {
+      "id": "243d4a2f70a728c9c9",
+      "category": "packaging",
+      "title": "Refill-Compatible Dispensing Units Market Size, Share & Forecast 2036",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlRWVJMG94UWttaDdNcFdpRWhmSlpSVjUxR0trTi14YUY4TVotSC14bW8tTXNlZG5JZ3dsRERJeDAzWFg4RDVuYVRpTERxaVJhSmszZ3B0MzVwUEdVLTZYeGlyOEtMbEtWT2Vray1hSy1sZlU5aGZLcklwZw?oc=5",
+      "source": "Fact.MR",
+      "published": "2026-11-24T07:41:00+00:00",
+      "group_type": "A",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "联系包材供应商核实材质、MOQ、兼容性、专利与单价。",
+      "related": "圆方 · 源采 · 半柴",
+      "is_core": 0
+    },
+    {
+      "id": "1eb0842dd0b2ecfdad",
+      "category": "channels",
+      "title": "EDT Names Hemant Chauhan as CCO to Strengthen Sales and Retail Operations",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMldvNkxOZ2dPOEVzTUg5ZmV3eDF0WEhMRzJDNVhfdWVnMHRWd2tKM29DZks0MGhyTm9MdDIzZUdkWXB1UzNweEhMbWZ3UDM3dUpmc1hYN1dKOWZVdG9FREhTbFRmbklUOUlJWkIxbVlVTENTRlY2YXhsVHZDM3hTZ2RTdUtTbTBMbnUtYVdlTTdVeTBMU2wxaEZXZDFiYlllS09SaTVR?oc=5",
+      "source": "Indian Retailer",
+      "published": "2026-11-24T06:59:13+00:00",
+      "group_type": "B",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
+      "related": "信弘达 · 源采 · 半柴",
+      "is_core": 0
+    },
+    {
+      "id": "f1c56d6a98210f5b29",
+      "category": "packaging",
+      "title": "Accelerating Modern Beauty Product R&D with an Innovative Cosmetic Packaging Solutions Provider - Topfeelpack",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcTdpdjJKUlVqSTRyZHlBSjAxcEVwNUViNE02SDRraHB6V0pnVmp0SHVvell0ZWZ3VGRQcXkyVjE4NUlra25SdG9yd3l1dl8zTmhUTmFIa3RkcHJ4cjJGcEVGTWRuM1laNHVtUUpreHpsTEpIdnZXUnAwZlhSZS1SQ2dWNE5TZmtTblVsaU9LM1hWNHhuenNyeTQ2QWpNejVIUFZsYkNlS0t6aTFVdUtMdlB3WG1PQW9zTjVYeVlkNHUyMlhiZ3RWQU9MMXhzeGg5cTRodFVXZ1kxd0xBQnFjekk2eURWVkdKVGc?oc=5",
+      "source": "EIN Presswire",
+      "published": "2026-11-24T06:38:00+00:00",
+      "group_type": "A",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "联系包材供应商核实材质、MOQ、兼容性、专利与单价。",
+      "related": "圆方 · 源采 · 半柴",
+      "is_core": 1
+    },
+    {
+      "id": "bdea815ea062cb0e4b",
+      "category": "brand",
+      "title": "Korean skincare brand d’Alba clocks 280% MoM sales growth on Tira, plans premium launch in India",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPd19ETlJRc2ZxYk5KRFR4Ul9hZnI2U200eXFlNzBvZTktaTRqaUphNlROWHZ4allta1NyRENxbERLc3hoTDhPUFFadUc3dTlmNzRJVnI3ZC1FMGhZYWFVbzNaSXFFcXoyVHZiZUU0RVVHX0pQUjBqVUlCZGFyT201YnpOUm45Z0dUaThveXJDWTdYaHpDVFZzcWVSR3BreVJiYzRCU3BCdVZEWXZ1S1h4eTdiV21IcFZQeUtwX3lSQ2h0NE81dThkRklQNGp5elUtRmdZVzg2S3JtQlJP0gHcAUFVX3lxTE93X0ROUlFzZnFiTkpEVHhSX2FmcjZTbTR5cWU3MG9lOS1pNGppSmE2VE5YdnhqWW1rU3JEQ3FsREtzeGhMOE9QUVp1Rzd1OWY3NElWcjdkLUUwaFlhYVVvM1pJcUVxejJUdmJlRTRFVUdfSlBSMGpVSUJkYXJPbTViek5SbjlnR1RpOG95ckNZN1hoekNUVnNxZVJHcGt5UmJjNEJTcEJ1VkRZdnVLWHh5N2JXbUhwVlB5S3BfeVJDaHQ0TzV1OGRGSVA0anl6VS1GZ1lXODZLcm1CUk8?oc=5",
+      "source": "CNBC TV18",
+      "published": "2026-11-24T06:00:19+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
+      "is_core": 1
+    },
+    {
+      "id": "b74ae8ab34895429dd",
+      "category": "future",
+      "title": "Korea exceeds policy financing target, plans to expand growth fund",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQWJ5dlVnaEZWQ25CT0lwRWJlQW1jc0IyNk9rRkxMQ2oxUlczTEdOTXdlNkt2TTFxTEJldTYxRVI1RkNvMUtnN2Rza05rdmVwbXRKaUduSEV1d2NiTkE4N3NxV0YtMjBIZWxoUThCcVpqbV9FV1BrUDE3Wmo4WldTadIBlAFBVV95cUxObUFIT05Cd09ENTh0Q3VSOUhuSW5rcEtqdTRlUWRaakpicGF5U0IxUW5EbURLejU5bE14VXJXdEpNc3BMY3VrcjNQcFlkLWQ5dWozb0ViN1VEY0tPb3AwaFRzTDY1UzVKZ0hFcVp4R2hLc1psR3RsQ3F5Y2JFeUJuSkZuQk9nZEdyMUdtMUl5UTFrUkFj?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-11-24T05:30:00+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
+      "id": "246b8a756dad87d4c9",
+      "category": "brand",
+      "title": "Bala Unveils Its Obsessed Vest, Expanding Into Weighted Wearables Market",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM0NGTzU1YTRJNWNrV2ZCcEJDbURDLW9tREQ3MXo2czhIRkxlU2ZZU0pYZVZrWEFVNlVyZk9idHBCS2IxWlpxRE5NdXVhRmtHS25JbnRjd2tYcXpiNlB0OUFwSVMxNjdYUnBjQkVFdVNDOGY5T3hpNkpfQzZlRlBTWVVLbEk3cFJWc0Vub3MzeEhHaHdPRmItT2tUek1ENlRUTVNwYnBNbEdTcUFlVE1VeHRn?oc=5",
+      "source": "WWD",
+      "published": "2026-11-24T05:09:53+00:00",
+      "group_type": "B",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
+      "is_core": 0
+    },
+    {
+      "id": "075f23c3296c8664ca",
+      "category": "channels",
+      "title": "How Cosmoprof Worldwide Bologna Facilitates Global Beauty Expansion",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUzgyTEFWN19tMzBlOGVkd2MwLUNtcHVQTEJWLU5UUld2Yk5KNmtkc08xYmlIM0lTVUJ4RVNhRjhGRFF1WHBQWlhBcmRPM21kYXRhRmQtZWtPRlNza01reFZOTjNodWsteDJNejFqVV8xNEtEd1dWNV9VOVowMnc0d0IzZUR3VWJ3RWM5dlZ1TGR0RXp4aFhmU1QwU3NSS0g1aEdENTlfcw?oc=5",
+      "source": "The Business of Fashion",
+      "published": "2026-11-24T05:00:00+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
+      "related": "信弘达 · 源采 · 半柴",
+      "is_core": 1
+    },
+    {
+      "id": "468d1adda477be80c0",
+      "category": "channels",
+      "title": "Bath Salts Market Size, Forecasts Report 2026-2035",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TZ0d0TmFzWDlQZl9hZDNxSkVGWTdybzFuTlVPLXZPanlBcEVNZW1mWUMyWVNTd0VQUHZxdktDcDJuZXVUSmZvX28xdFAzZy1FWGRGMTZ6eWdjV3dZWk1aQk9xQ243N1U0QW50dUlEcw?oc=5",
+      "source": "Global Market Insights Inc.",
+      "published": "2026-11-24T04:01:15+00:00",
+      "group_type": "B",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
+      "related": "信弘达 · 源采 · 半柴",
+      "is_core": 0
+    },
+    {
+      "id": "48a6f9b60e1993755f",
+      "category": "channels",
+      "title": "TOPS targets fitness shoppers with new wellness section, gym partnerships",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM1RXdXMydzZBRjFOakxIdldiWU5oS2RuN3I4QzFTSHQwczEzYUpIbE04SEpOazNvOGh5THNlM2UzbWVfQXgwVjhiMjNXTGlqQWwtN1FpYXlCbU5hZ1d1TDRMS0JxLW9mVmhfV2o0NnR2V0QzUUxwa0RMSzc5TXRfN2djS3hnN2c5bGZSYU13UGFPbXdPX1NPNHpLdWxSM3RkYXRIQg?oc=5",
+      "source": "Retail Asia",
+      "published": "2026-11-24T02:26:25+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
+      "related": "信弘达 · 源采 · 半柴",
+      "is_core": 0
+    },
+    {
+      "id": "930c228834e687a53d",
+      "category": "channels",
+      "title": "Musinsa Beauty is expanding its scope to a distribution channel that introduces new products from em..",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9laENsSWp5eEluQVF6VF9GcGFUQmU2cldmVnpnLXZCZHVHZXJJZ180bEZTSFdfaTFqSmpDUkhhODBhbWNWZGdmZWthYVpLU0tIbjk0?oc=5",
+      "source": "매일경제",
+      "published": "2026-11-24T01:52:21+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
+      "related": "信弘达 · 源采 · 半柴",
+      "is_core": 1
+    },
+    {
+      "id": "1f447ba2f9d83fbd56",
+      "category": "brand",
+      "title": "MUSINSA BEAUTY Expands to 3,000 Brands; Luxury Brand Transaction Value Rises 110%",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUmN5V25GUGhjUm10RXdzeHRLOThJQTgzTjMtOXVBY21UR1BmSUdWcm1HQzQ4b1VfeVpXaGVvNzVFbzhIYnVjUXlpVVRtWC10UnBqUkI3SGdKdEVhYS1nMXI0SGRKUUdlVDR1Yko4b3RFWXBIR2J1S2ZhbHlKcEF6Yg?oc=5",
+      "source": "스포츠조선",
+      "published": "2026-11-24T01:49:17+00:00",
+      "group_type": "B",
+      "score": 4,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
+      "is_core": 1
+    },
+    {
+      "id": "bb0a0ca60c8d7e65ad",
+      "category": "market",
+      "title": "The Luxe Beauty Advent Calendars To Shop In 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hWGUtVEFVc2tKeW4tYjB2dXFDSWFPYnBvR0J5UHpIeWdhbGxRODc3OGdka0tFRG1fYWtFc3lrRlV5Z3JjclpYSnBfa0RVc2ZyaTFPdVBtd2VSS050MXA0azZXTkhEYnFaaGl4RA?oc=5",
+      "source": "ELLE Australia",
+      "published": "2026-11-24T01:31:40+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "识别需求趋势并与现有SKU、产品报价和目标客群交叉验证。",
+      "related": "圆方 · 信弘达 · 源采",
+      "is_core": 1
+    },
+    {
+      "id": "93a1674e1835b9454a",
+      "category": "future",
+      "title": "Space Tech Demand Is Outpacing Infrastructure: Three Investment Takeaways from Up/Link 2026",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZkFqcjVjZ0ZGZkFjdVg0YzlNaF9tdHc0RUdMT1ZsR1R2ZnV5UVZlNGZDdm1HSFFKMk5qajZDV1NvQWVQNDI2RFU5aXdlV1VNbUtEaVpCNHZzdDYyMmlKdkJzekFwLUJucVBMSjNqRThLY24yY3lsMFp1aXJ1b0tucWR6aTFXZTJYNkVPbWsxdG4ydVV1TGtwTUx5cm5XMWRKeHg1QnVHZTZoTnE1dEhKVjlWYjVXRmVGUDFrVm1fOVVkQy16NWV6NHV6V0VzSDYzQTBraGc4VnhDRjZ3RnM0?oc=5",
+      "source": "Global X ETFs",
+      "published": "2026-11-24T01:15:24+00:00",
+      "group_type": "C",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
+      "id": "b4508549cae239b856",
+      "category": "future",
+      "title": "Why Columbus Is a High-Growth Hub for Business Investment and Expansion",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWmJLcTVVM1VlSFFKaGp1RGhtYXlQOGxmWVBndGhWS2VBcjJsaXlZa0tDRFJENHQ3WVdZWXplRjNUcHpXSDMyeDdYaFU5b0dTYi1RU0dhOXJONUlHa2l3M3FxQm81bF9fWWVsdFdaUkhnWnZnM1hCUEZpYUJPNUZBYmNObmxpMG5mUzY5VnZ0dk9rU0tZaVJCblpidk5PbFBOemVEZzFJenRmT0FmMnIyR28wdTJyT2FrOFdoUXNtbzZERGNPakZEOVk0QmZhVFJLSk5vN1pQR0NtQTdNZm9qZktoMW5MRFdrX3BjVA?oc=5",
+      "source": "Columbus CEO",
+      "published": "2026-11-24T00:14:00+00:00",
+      "group_type": "C",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
     {
       "id": "d63cf988c91c87d74a",
       "category": "future",
@@ -59,7 +549,7 @@
     },
     {
       "id": "fa1644e4bb3f845ab6",
-      "category": "channels",
+      "category": "brand",
       "title": "Lip Oil Market To 2035: Hybrid Care and Color Demand Drives Expansion - News and Statistics",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMGFSNUdEM011TGhJeEw1NVNGVnhIVGFFWWRldlhxUU1yc0xTclF5VnBWMTF1eUtUc1dwc0JqRE85TmhSNUhjX2NmUjRIN1FnR1dsY0hkX2VFNDA5STd1cEtPRkhNdklDdGtUbVZsS3FaZmtfZmN5U3NYMFJYME91S0x3bGl6eHJXck45dEhGX1JPQXQ4RVluMTJ4ZUI1MWNsclNCdzBVTFgxenE2cUltSVNKZDlvNzQ?oc=5",
       "source": "IndexBox",
@@ -67,16 +557,16 @@
       "group_type": "B",
       "score": 2,
       "status": "公开报道·待独立核实",
-      "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
-      "related": "信弘达 · 源采 · 半柴",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
       "is_core": 0
     },
     {
       "id": "68ab1999c771138d1e",
       "category": "future",
       "title": "Emerging Growth Research Releases Q3:26 Quarterly Update on SBC Medical Group",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa25DaHhxVHJ1SHY4NkVDeFNlb3hiakxxcmdQblVibEZzZHhhLUlfUWRLdUg4LWRBNkNJZ2tXTExGemFDcERNMlUxc3QyeGVOeXJId0pPSEtHQ0xMWUxjNmZ1VnFiTENIS1ZiVHI5bmlMb3JIQVNZWEZ3R1RJYnMxWUxTT0N4Nml6Mm1CeDc0NV9wbzJhT09RbXNIMFk2MnRrSkVIZl9pX1FKWlU2U0l2ZjExSDNOX2dxLWVoT3I1dFloSUx2WEo0LU96RQ?oc=5",
-      "source": "Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOblM2Z1dlUzhpeGZSRnNXbjRHUnB5TUpLUERYUVpueC0xTUUwalA0bVg0a243RXdDOXVyblF2d1dtbXdSbFhsWlRRZDBqLW5hVWVhSFdlck9QaVBBYjU3MG8wbnFFc0d1UHN5TXBMWVJNbk9MaTB1dm45MWZ0U2FmUjZtWjlDak5DV1YtTTBfaWFMZ01lbEltam8tREdpTFZ1S3I0bXNoQ21ndHlKZWIyOTdpamw0U2J1UGE4M3poY2RFN1phSjN1WkRONEx3ZjJ1TjhiX1VJU212Zk4wMlBsanpCZXo?oc=5",
+      "source": "ACCESS Newswire",
       "published": "2026-11-23T18:20:00+00:00",
       "group_type": "C",
       "score": 2,
@@ -91,7 +581,7 @@
       "title": "Mielle Launches First- Ever Body Care Collection Formulated for Melanin-Rich Skin",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRVpjU3hKdDJkaHA1SmJydDU5SXQwTmVYX3E2UnlXa2Vlanc3NG9lY1dQMmFhY3lSajdkUGdaemh4MnlFczlHWFJuQURlbHhHc21PNVVLNm9sajRhRnlac0VKMHRPaVluNllyY3NlbkJNU29xN2xCUEV6WXpKaVh3dm9vYkViZ2dDc3NlUnMyRDdyeUw4TEp1dHZZMlI3c0MzUEg4QklsajFpUnZfc3Q5V29NMFlld3VzQ2RmY0FMRG5WVHJXUHpMU0JMMDloTTE4X1E?oc=5",
       "source": "StreetInsider",
-      "published": "2026-11-23T17:56:21+00:00",
+      "published": "2026-11-23T17:59:43+00:00",
       "group_type": "B",
       "score": 4,
       "status": "公开报道·待独立核实",
@@ -100,12 +590,40 @@
       "is_core": 1
     },
     {
+      "id": "a887edb0f5047012c7",
+      "category": "future",
+      "title": "Commentary: Higher education still opens doors to opportunities",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcUJibXZmcmk2Xy1pcG5mckxiMGgwcGZUX3hySTBnbGk1Ylo5djVjbEdqSEh2QW5xWXcxMEhoX05CbHhndFloeGgwdFphVGR2dWMtcmh6Z2RyVkxyNEY3cmxxdUtkaUhKNzJzZHBuSGlxY0pFbjg4NV9UZ1BFa0ZQdzFtUVJsN1l3Ym1OOHNHLWY4RURTTGtB?oc=5",
+      "source": "Crain's Chicago Business",
+      "published": "2026-11-23T16:46:56+00:00",
+      "group_type": "C",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
       "id": "bdbb9dad053031d71c",
       "category": "future",
       "title": "AJG Stock Gains 36.4% in Six Months: Here's What Investors Should Know",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblJrZnpKdkt6SEFjSjN2NThhdUcyQWI1SGczSkVORExlaFNaU1pGZ01hX1lTaEx2UmlDRHlhNlJSeVhpOEVpcV8tc0d5dTcybUxIT0w2MEtPSjd2SWNvV2ZHcWdMX2ZzRlotOE9VT3Zsek5ZWUd0eDhRclBncGFDM0YzWWh2VEE1NURucTQzUFdxNDd5eTcxSTB3bEJIRjg3OWhLOVZIR3FydXFibkNvcnAteWI0ZmRkM2F4NFYwMkFHUQ?oc=5",
       "source": "TradingView",
       "published": "2026-11-23T16:02:00+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
+      "id": "dd1597796cbaaef799",
+      "category": "future",
+      "title": "CSE Composite Small-Cap Growth: Sparc AI Inc. (CN:SPAI) Enters Focus as Investors Track the Next Catalyst",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU3JTTVpVYlM4SVdYSWFMcVpaTElEY2oxV3hKM01HUmpFSnpfRDlMMW1FSlJJbHRkWmZ2Q2JEZVVEay1ndXJpUVRzZGg3SnlZM2lWclJkbERvbHk1VmM2dlVOaEhDanZYbHF6UGtHOHl3ZEdpSXRyVFhRMTNwcUdGeEpsUW1jWWYtaHYxeWNwMG5Xc1lGQUZNeUVCSW1hYkdrVUNXM2dXb2JxdDIyQzZwaFM1alNmSkhoalQ1WXY3bXY2NXdjT3dIb1h1TTNUdnVGVGNvWDZsNUhmcXAzR3dpR2lR?oc=5",
+      "source": "kalkine.ca",
+      "published": "2026-11-23T16:00:00+00:00",
       "group_type": "C",
       "score": 2,
       "status": "公开报道·待独立核实",
@@ -181,6 +699,20 @@
       "status": "公开报道·待独立核实",
       "guidance": "识别需求趋势并与现有SKU、产品报价和目标客群交叉验证。",
       "related": "圆方 · 信弘达 · 源采",
+      "is_core": 0
+    },
+    {
+      "id": "79f11a78e1db205a7f",
+      "category": "future",
+      "title": "Investments in German tech start-ups surging: study",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSGJzRWRQaVotc1dYVzdreV84NTdMYV9ndmJGWHVaamlyVVJvTHdJNXo2OFIzZU9LQVZjSTlyN1ZVRURvaUE3NjJ4UVhyRW1pcUh4VWJLN1cxQTcxNWxOVllXMmM2a1FtVkxKU2xUMjFJSTJUMm0yaURDYmJreUJrVG5UZ1E2MUstLVFMaENxWUpRWFBRdDQxYlVzeUFmUQ?oc=5",
+      "source": "France 24",
+      "published": "2026-11-23T14:26:17+00:00",
+      "group_type": "C",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
       "is_core": 0
     },
     {
@@ -265,6 +797,48 @@
       "status": "公开报道·待独立核实",
       "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
       "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
+      "id": "0e3354673bd759f796",
+      "category": "future",
+      "title": "Best Growth Stocks",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43eFRGWXlmOUIzQzdDaHpuNDl4MTBaZWVpZEphc1d0djVLSk5kVXdhOWFZY2lFVGhDNDU2dUpKOTd1T1hvQTFEbkZFc3J6bWFrNS1lVWFISXM1MHpmOC1SM0xMZFdNSDBsSWhGUg?oc=5",
+      "source": "Forbes",
+      "published": "2026-11-23T12:32:00+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
+      "id": "05c11fac6b28367ee0",
+      "category": "brand",
+      "title": "Shoppers Drug Mart Plans More Beauty Brands as Canadian Market Reshapes",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObWZPNG9Fd0djTXJuUEY5M3JMRWxETU9WZGJfcGEwU3VaM0Rzbl9BZ01RV0RzWF9VNGhpQ3FSU3RtLVNmM0hreTh4MmZSdXVWR3dzSnhWNUlVc3ZNSXdzalBzV21YSl8zeFVycURueXItV19iYVpHeW9sNjduak0wTXREMDFsbzlwWG5EZVd5ZGhmQXRCX1JIZUdrX3RjUjdsaGJpSjVJcFQyNC1NWUVNaHViTWtpNFVMbDVzRk9kWQ?oc=5",
+      "source": "Retail Insider",
+      "published": "2026-11-23T12:20:00+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
+      "is_core": 1
+    },
+    {
+      "id": "b0565940859f253585",
+      "category": "brand",
+      "title": "Page 2",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4TlZfUmpQdGxtdWxHcHViY0JRZUlZTWZnQ2tSMGUzcGM4YWQ4WTU5cnE5bHFwS2daNUY0cVB6MEY4X01xYk8yRzRPNFY5OTIwVUh5ckx4S0xwaENWVHlKeG5OVGRjYnVuemlZWjlrRU4?oc=5",
+      "source": "Retail Insider",
+      "published": "2026-11-23T12:20:00+00:00",
+      "group_type": "B",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
       "is_core": 0
     },
     {
@@ -534,6 +1108,20 @@
       "is_core": 0
     },
     {
+      "id": "7b546d0e8313c4f984",
+      "category": "future",
+      "title": "AI boom lifts gold & silver demand, says Auckland adviser",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQUdIcW96NnJaeTlUeG93NzhOUkVpcGdEa3pJMl9wSVlzUmNYWWpNZVhxUVVUbjQ1MjZwWnVvN1NWcUdETkgzYzluSWdvdG9CbUVsX21laXhmUVRReWdkQWlKbDR6c1hTeVZrMF92cUZ2ZzF1cXhyT1Zub25RazhtRDVpZUVLYVhqY2xtZzBEWmtQUQ?oc=5",
+      "source": "DataCenterNews Asia Pacific",
+      "published": "2026-11-23T03:50:29+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
       "id": "6d7f0bc693fda48323",
       "category": "channels",
       "title": "With Hopes of Hallyu Ban Easing, Firms Prepare to Expand ‘K-Beauty Sales Channels in China’... Industry Ministry-Backed Companies in Focus",
@@ -618,6 +1206,20 @@
       "is_core": 1
     },
     {
+      "id": "dfc2004beaf99b5102",
+      "category": "brand",
+      "title": "Expand North Star 2026 to bring global AI startups, investors to Dubai in December",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON09PY2VTcjN4OFBzaGVzdWR6cUVxYVhPQXhDbmZOMUdoYXJlLXItRHZoUUktUnotUFJKU0hOQ2tsMlFzMmczYThFUGJpMTZRTXJNa1l3c3MwNXlrNF9JN2dZdTdPWWNPMWlOX0dtNVFLSFVid19BeG5nbks2MXV2X29aSVdHa1dwVW05cjU4N2dtYmxWNEZmaTRBcE5pRVoya3l0c2c1SGJzNE9DMl93NG5xa0R6U1BOaS1z?oc=5",
+      "source": "Gulf Business",
+      "published": "2026-11-22T19:32:48+00:00",
+      "group_type": "B",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
+      "is_core": 0
+    },
+    {
       "id": "ae77dea7908ae611b5",
       "category": "market",
       "title": "Consumer Chemicals Market To 2035: Hygiene Demand and Green Chemistry Shape Growth - News and Statistics",
@@ -663,6 +1265,20 @@
       "id": "b388df358a92723c27",
       "category": "future",
       "title": "Venture capital poured into medical and healthcare startups integrating AI",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VX2JMUThsSUxpRUluUFlfd0pBc2FOT19GZlpweDl1c25YYkpfSUVWUlNmbXRPR1RRNl83MHc2b0FTYnJ4dmNHRXp5R0h2WklQeEdZQmhQVVFiZEU3eVA4WnE5RUpVbzVKWHAyanFB?oc=5",
+      "source": "머니투데이",
+      "published": "2026-11-22T08:00:00+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
+      "id": "cff4343b09ce6cd89c",
+      "category": "future",
+      "title": "Venture capital pours into AI-powered medical and healthcare startups",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VX2JMUThsSUxpRUluUFlfd0pBc2FOT19GZlpweDl1c25YYkpfSUVWUlNmbXRPR1RRNl83MHc2b0FTYnJ4dmNHRXp5R0h2WklQeEdZQmhQVVFiZEU3eVA4WnE5RUpVbzVKWHAyanFB?oc=5",
       "source": "머니투데이",
       "published": "2026-11-22T08:00:00+00:00",
@@ -828,6 +1444,48 @@
       "is_core": 1
     },
     {
+      "id": "4e9e1f0074f890945a",
+      "category": "market",
+      "title": "Beautyworld at 30: The Market in Numbers",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFY4Q0xKTGtYdkJibkdncmtleUNnYldoVUs3NHRJX1pvMVBZSTFOb0xFZ0JINTMtX2VFSUE0RWQxTVQza0x4S2staW83c2tQY2wwMFhFU2VUOGx4TWwybWNFaEpQMTk1dW56c2Fla3NKY2FMX2h5NThTdXlfclhQaDJoQ3FKUDlyM0ZjNzVZNXdWckQ2SjRjWWszV1NoREE?oc=5",
+      "source": "WWD",
+      "published": "2026-11-21T10:41:06+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "识别需求趋势并与现有SKU、产品报价和目标客群交叉验证。",
+      "related": "圆方 · 信弘达 · 源采",
+      "is_core": 1
+    },
+    {
+      "id": "25b98012d9859f10ae",
+      "category": "brand",
+      "title": "{Funding Alert} VitusCare Raises $3 Mn to Strengthen Technology and Expand Healthcare Network",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcXhyY1lZUjBlR1hYckFNeXVSWmM0Nkw4Zkk2SGhSeTM4U2FLSzJtbjVjSk5FTE54UjhPTUdZb2l1ZUt4QXR6eGROUFF4eDR1YXpteHV5V0FHajJnb2M2RzI2QWJXV0VEUTc0ZDJQT1ptdUdHV0oxVVFVMXVEZllDZ2FFaGw2TU5OSDBjZnB0dDJhOWo3Zms1OV9lTDVJYlMwTGFDY1owcVBWaURYZE5lZnNRQXg3T1kzeFBZek55cHk?oc=5",
+      "source": "Indian Retailer",
+      "published": "2026-11-21T09:26:43+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
+      "is_core": 0
+    },
+    {
+      "id": "f79dce7d359e24f966",
+      "category": "channels",
+      "title": "MOON Oral Beauty Public Relations: Ulta to DOC Brands",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DWWNvOUNpaDRSTHNpbTM4RVNvanFzQmFtVDlwbmpjMHBuT2pGMXc0b0tDWHhmM2Qyb05Vd3FxUVFQM01BYlZpZnY4eVFVNUJyU0Q5a05QYXFuWTB0VHZUVUNKOHRGYzF5SmxZ?oc=5",
+      "source": "Everything-PR",
+      "published": "2026-11-21T08:00:00+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
+      "related": "信弘达 · 源采 · 半柴",
+      "is_core": 1
+    },
+    {
       "id": "1e0dd6cc7287edb0ff",
       "category": "market",
       "title": "Best Advent calendars for 2026 to make your holidays extra festive",
@@ -839,6 +1497,20 @@
       "status": "公开报道·待独立核实",
       "guidance": "识别需求趋势并与现有SKU、产品报价和目标客群交叉验证。",
       "related": "圆方 · 信弘达 · 源采",
+      "is_core": 0
+    },
+    {
+      "id": "fccf4e8061fce8a5c1",
+      "category": "brand",
+      "title": "Underneat Takes Online Brand Experience Offline with Gurugram Store",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUDlsVTRsY1hEX3pMOEhNT1g2cEo3cTdnOVRacWw5bzlIanJTYWd0c0ljTVZEX0c4ay01Y1ItZkRuSFZOcVhXWjRQMDQzMkc2OXdlOXBCQ2NzeUFXTVpqR0l6cDQ0dEZCZ1E0UUtRb25IMWxNVFB6UmxSbFAxeU02eWs1eXhWZWNDLUNYdFNPelViZmZYTTZOTTNnRDFpOGc?oc=5",
+      "source": "Indian Retailer",
+      "published": "2026-11-21T07:04:33+00:00",
+      "group_type": "B",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
       "is_core": 0
     },
     {
@@ -867,6 +1539,20 @@
       "status": "公开报道·待独立核实",
       "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
       "related": "信弘达 · 源采 · 半柴",
+      "is_core": 1
+    },
+    {
+      "id": "1da71b6ee0ce77ea2e",
+      "category": "market",
+      "title": "Best Beauty PR Agencies: 24 Firms by Brand Stage",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNU9aalpRbi1LNFNyVlhHRTVQdndMaFVBR05HaWJ3M2tJOWZWaDg0NXlXNWgwZThmRkstNzJKNTJES0E2S1ozS01MelFib3J3U2J2M3hCM3VaTjFXQU1iR2FrZS1SWHNNRjMwd3g2WTJXaVNXN19FNHlXS0RJNE5VZk9YNHhzNHZjVlNPR3cxZ1dTcEFlVXFwRFVwSkN0WTQ4NXlEeUxkNmJNXzZnYVE?oc=5",
+      "source": "Everything-PR",
+      "published": "2026-11-21T04:41:13+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "识别需求趋势并与现有SKU、产品报价和目标客群交叉验证。",
+      "related": "圆方 · 信弘达 · 源采",
       "is_core": 1
     },
     {
@@ -1024,20 +1710,6 @@
       "is_core": 1
     },
     {
-      "id": "fec12559e81ad0826d",
-      "category": "brand",
-      "title": "Anthropic opens 34% above IPO price after $81.34bn offering",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTWUweHBvRUNpbGgtTk9DZWVmNWpwU3lVMnB0Nm5uSnBxRnpOaEhtWEdIZ1ViakI2Q1VmanU4VHZXMDY4aWxXc1hHekh3RjZMMVEtQzhBVWI2RDB2UWkzMm5KMXZVRE5PVU83d3RoMUtheVNFa2RaY1I5T0FHb1hRZnplUU1wYWtqM09JN3NnVk5sMW9vSXBpbg?oc=5",
-      "source": "Gulf Business",
-      "published": "2026-11-20T18:57:47+00:00",
-      "group_type": "B",
-      "score": 3,
-      "status": "公开报道·待独立核实",
-      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
-      "related": "圆方 · 信弘达",
-      "is_core": 0
-    },
-    {
       "id": "2b6de510ec60b05d36",
       "category": "market",
       "title": "I Test Skincare Products for a Living. These Are the Brands I Trust Most.",
@@ -1192,20 +1864,6 @@
       "is_core": 0
     },
     {
-      "id": "fccf4e8061fce8a5c1",
-      "category": "brand",
-      "title": "Underneat Takes Online Brand Experience Offline with Gurugram Store",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUDlsVTRsY1hEX3pMOEhNT1g2cEo3cTdnOVRacWw5bzlIanJTYWd0c0ljTVZEX0c4ay01Y1ItZkRuSFZOcVhXWjRQMDQzMkc2OXdlOXBCQ2NzeUFXTVpqR0l6cDQ0dEZCZ1E0UUtRb25IMWxNVFB6UmxSbFAxeU02eWs1eXhWZWNDLUNYdFNPelViZmZYTTZOTTNnRDFpOGc?oc=5",
-      "source": "Indian Retailer",
-      "published": "2026-11-20T12:37:27+00:00",
-      "group_type": "B",
-      "score": 2,
-      "status": "公开报道·待独立核实",
-      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
-      "related": "圆方 · 信弘达",
-      "is_core": 0
-    },
-    {
       "id": "b12da09bce3204afb9",
       "category": "future",
       "title": "澳大极创客创新创业展开幕– 澳门特别行政区政府入口网站",
@@ -1234,6 +1892,20 @@
       "is_core": 0
     },
     {
+      "id": "2723c8b1bb7f6090c8",
+      "category": "future",
+      "title": "London Biotechnology Show 2026 Concludes Two-Day Event, Bringing Global Life Sciences Community Together",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeHlQVFBQRkhHZEJ3Vk84R2h6dFVSTy1nVFNWOW1EMjNRX0xzYVlIeS1lWWlveU5FSUdBUUkyUV9TYjJqdDZ4a3c0U1N5TEFWZHN3NGQ1aldYNHdhS3UtaW54dmJNdDgzU0FNNjRTWGJ5QW95MllnNWwxVl9UWXcxN2g3RHBQSHVVTVV0QTFKOEQwUGJNTHdMLWh6Z1dLOHlabUhEbHotSUg1RVZLeUx6RW5EMVFWQUtmSGpCMUpDM3Q0cEtpcTVKRGZEaUd6RU4wWHNnQkdzU0k2OHJMb0F5TGFYVQ?oc=5",
+      "source": "Business Focus Magazine",
+      "published": "2026-11-20T11:57:44+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
       "id": "2866ea378a781c3e6b",
       "category": "future",
       "title": "Australia’s Biotech Revolution: Unlocking New Opportunities in Pharmaceutical Manufacturing",
@@ -1259,6 +1931,20 @@
       "status": "公开报道·待独立核实",
       "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
       "related": "信弘达 · 源采 · 半柴",
+      "is_core": 0
+    },
+    {
+      "id": "501a62ea2d37d7591a",
+      "category": "future",
+      "title": "Healthcare ETFs Shine as Investors Rotate Out of Tech",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcm1JSl9NQTdkaHQ4T1ZHcUhfcmx2NFhKZE9FemFtV3Z4ZFd6bk9hN2dlZWZSdnhXRUczQmtiZ2dON1JVdS1rOElZWmdkRXdGVGltNTlZc3BYdlJmVDBrVmxjZTlJVDVLYWMxSjlBOGRvNnRGbzNLTGI5VGdGZXlOVjB1ZGxJLUNYY0c4V09YWnZ6YnlEaGhmZ2hBZTgtRUxidmV3OEdNOVJjb25abXJVWkZwbzBDb3QxMEhZQWdiY2dqdElyWVlFY0FJQTByS1NxbkFmUzJn?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-11-20T11:36:53+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
       "is_core": 0
     },
     {
@@ -1360,6 +2046,20 @@
       "is_core": 0
     },
     {
+      "id": "9122e7e5123040bf90",
+      "category": "brand",
+      "title": "COSRX Drives Mainstream K-Beauty Growth, Targeting 2,000 Australian Stores",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNUx4S2pCeVRSZGhQZXdXV2ZGZHAyOW5RQVVXcF9NcTlMQjFmbmJ4WTlaanpYZHRpRlNwakloUVhJOFI0akJYRlJabEJOdmJCU3AwSWRITF9KVlFmc0pFVmR2bGJPNGVUVWdHemRnRjBKYzlaWUxEcDhWUDJNb2ZkaXl2TVhrRlVEYXJnZ0FtVUpJTGNsMzVzbFdzUDV5Wi0tdFE?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T09:18:00+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
+      "is_core": 1
+    },
+    {
       "id": "c33ffcd3a280519c0b",
       "category": "market",
       "title": "The Brands Redefining Modern Luxury, Style And Conscious Living In India",
@@ -1402,26 +2102,26 @@
       "is_core": 0
     },
     {
+      "id": "b749fd9f41f94a2cd3",
+      "category": "future",
+      "title": "Best Pharmaceutical Stocks to Buy for November 2026",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GcW9XVjRWa1l3aHFDUEpULXVEX0dabzh3T09fZW8tcWFvUGZzbW80aDBsbFZQWG1NdkRodktNN0F1dGRGUEZzVzN3aEpPYlE4a0VBbXdkNjcxUVFxRHJEZEs2SUNWTUloSS0wTnJ2MldlejNZY0ExU3F3?oc=5",
+      "source": "Zacks Investment Research",
+      "published": "2026-11-20T08:00:00+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
       "id": "9c78ed8bfd65eadad5",
       "category": "brand",
       "title": "Inside Dubai 2040: Smart services, digital twins and a city designed around people",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcnlobXJtN3hJVUFUZmF0d2VnQ2tNdnRwTU9rdzE4Mmk1aWJwbThvTW1mQUZkTG1jOUg4LXlsRG1IM3lqRG9FNkNEaVpjU3dmVjFKQlNLeTdGTHBSSDhmMXlsZ0hiUzItM01aQnBYNVh3UUZUTktmNG5oMEZzOGZoUHNkNW90c2lvdXBxV1RHck5RZHNOaDlSSGJUQU4tZS03OE9Gc2hwZk13M1BHcnh2WU9hTm1Pd0RaVEFr?oc=5",
       "source": "Gulf Business",
       "published": "2026-11-20T07:42:02+00:00",
-      "group_type": "B",
-      "score": 2,
-      "status": "公开报道·待独立核实",
-      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
-      "related": "圆方 · 信弘达",
-      "is_core": 0
-    },
-    {
-      "id": "dfc2004beaf99b5102",
-      "category": "brand",
-      "title": "Expand North Star 2026 to bring global AI startups, investors to Dubai in December",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON09PY2VTcjN4OFBzaGVzdWR6cUVxYVhPQXhDbmZOMUdoYXJlLXItRHZoUUktUnotUFJKU0hOQ2tsMlFzMmczYThFUGJpMTZRTXJNa1l3c3MwNXlrNF9JN2dZdTdPWWNPMWlOX0dtNVFLSFVid19BeG5nbks2MXV2X29aSVdHa1dwVW05cjU4N2dtYmxWNEZmaTRBcE5pRVoya3l0c2c1SGJzNE9DMl93NG5xa0R6U1BOaS1z?oc=5",
-      "source": "Gulf Business",
-      "published": "2026-11-20T07:02:39+00:00",
       "group_type": "B",
       "score": 2,
       "status": "公开报道·待独立核实",
@@ -1486,6 +2186,20 @@
       "is_core": 0
     },
     {
+      "id": "fec12559e81ad0826d",
+      "category": "brand",
+      "title": "Anthropic opens 34% above IPO price after $81.34bn offering",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZWZqQzVSZGhiWlZwYXl6dXM1alpHWFlHU0g2a3BDU3E5WmZfWTU4bC13cTV4UkFMV001X1JzbUstbC1NV21wOHdxcERpSWpEY3MteEhJRlRvNjBYeUFkRmtYMGRqTTM0SmdybnhibTloX3JWZUItS3N5dTFsLThOeFBPcWw4ek9KYnJrdW05UFlOMjZ3RGVFelI2WEM?oc=5",
+      "source": "Gulf Business",
+      "published": "2026-11-20T06:01:48+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
+      "is_core": 0
+    },
+    {
       "id": "d75d559bd0fe8e16cc",
       "category": "research",
       "title": "Longevity is driving the application of biological sciences in cosmetics",
@@ -1514,18 +2228,18 @@
       "is_core": 1
     },
     {
-      "id": "4e9e1f0074f890945a",
-      "category": "market",
-      "title": "Beautyworld at 30: The Market in Numbers",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFY4Q0xKTGtYdkJibkdncmtleUNnYldoVUs3NHRJX1pvMVBZSTFOb0xFZ0JINTMtX2VFSUE0RWQxTVQza0x4S2staW83c2tQY2wwMFhFU2VUOGx4TWwybWNFaEpQMTk1dW56c2Fla3NKY2FMX2h5NThTdXlfclhQaDJoQ3FKUDlyM0ZjNzVZNXdWckQ2SjRjWWszV1NoREE?oc=5",
-      "source": "WWD",
-      "published": "2026-11-20T05:14:16+00:00",
-      "group_type": "B",
-      "score": 3,
+      "id": "8c8c37a5528ec30375",
+      "category": "future",
+      "title": "APTEXPO 2026 Spotlights AI-Driven Supply Chains, Sustainable Materials, and Asian Fashion Brands",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON1lzSUVXU0M4UmNIMy1ta0ZLMEZta2Jmekt3UVhnYi04X0ZoV3ctazg2dldjLWZ0Q1cyOFltSHdxVE9CNzBKOW1nNkp3LVZPa25SR01MZWtCZVZjY1lEVzRoRnVDbjhjaFlNV0swOEpseGZlZlk3TElOUHV6Zmp0OWVkUWRVMnpkWXJZSFBFTVF3QWNNMHlXdUlET25naUNZVTJsbnVJMHZkdTlxVzNzWGloMkFzS3BuR3JtOWl5R2paaHFuVUNwTTlYeWE?oc=5",
+      "source": "ANTARA News",
+      "published": "2026-11-20T05:05:59+00:00",
+      "group_type": "C",
+      "score": 2,
       "status": "公开报道·待独立核实",
-      "guidance": "识别需求趋势并与现有SKU、产品报价和目标客群交叉验证。",
-      "related": "圆方 · 信弘达 · 源采",
-      "is_core": 1
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
     },
     {
       "id": "1511aca09bb2797456",
@@ -1570,20 +2284,6 @@
       "is_core": 1
     },
     {
-      "id": "6d148901acb89a028e",
-      "category": "future",
-      "title": "11月26日，WISE2026商业之王大会·具身智能&文商旅分会场落地北京亦庄。首批嘉宾阵容，今日正式揭晓！欢迎扫码报名，我们现场见。",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BMnBId1RJR202a1FuNUMyS1dzN2ZtZnc2QmFRX3hlREdrRmVndm15eGxoekt3VmhfYkdxZkpzaFNheHNrTmM4cHFWQ2RGdUk?oc=5",
-      "source": "36Kr",
-      "published": "2026-11-20T02:14:47+00:00",
-      "group_type": "C",
-      "score": 2,
-      "status": "公开报道·待独立核实",
-      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
-      "related": "跨行业观察",
-      "is_core": 0
-    },
-    {
       "id": "7e48bb83b92484edc7",
       "category": "brand",
       "title": "Beauty brands seek fresh funds; Cybersecurity courses gain traction",
@@ -1599,7 +2299,7 @@
     },
     {
       "id": "d924ab607789456e4e",
-      "category": "channels",
+      "category": "brand",
       "title": "How Atwater Is Expanding Men’s Grooming Through Prestige Retail and New Categories",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOE9kaWpQTnd4c2JrQVIzZy1XLU52SGdtYmw2TEFiNmF6MUMtN2NZNkxCQVB6YkpfYjRweGtzaXl6VXVkU3VmTVJzMDl1a3VoVUNCQmFKSFR1LTNRSzFvNEtSRm9Fdi1FNTc0dUJFdm9jM3pjekY0REx2eWxTbWFYd002Q3BObGo4QnZ0cTNMcXRkYWRQQWNSLVZhYw?oc=5",
       "source": "BeautyMatter",
@@ -1607,23 +2307,9 @@
       "group_type": "B",
       "score": 2,
       "status": "公开报道·待独立核实",
-      "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
-      "related": "信弘达 · 源采 · 半柴",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
       "is_core": 0
-    },
-    {
-      "id": "9122e7e5123040bf90",
-      "category": "channels",
-      "title": "COSRX Drives Mainstream K-Beauty Growth, Targeting 2,000 Australian Stores",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWEdsWjhvY3ZiNjd1WE9wYmVOYXp3NERBT3FxOGMxNW5QalZuZ2RUWUVDTGlNbkszdjZMLU1WZ25yZTlkN0NYNGkyQkRjUjJHU19zMl9UU2FENDN1U25fMldIVlZfNDBGZ2RYMVBMUWZVSlhrTFpmQjRNVUU0NWtHLVZIT0twWVpfYnR5VE1iLWFpMndDd1Z0RFctSUpEZmU4Y3FDdzVKZEZGM1NWU1E?oc=5",
-      "source": "Kosmo Online",
-      "published": "2026-11-20T01:18:00+00:00",
-      "group_type": "B",
-      "score": 3,
-      "status": "公开报道·待独立核实",
-      "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
-      "related": "信弘达 · 源采 · 半柴",
-      "is_core": 1
     },
     {
       "id": "c78f833a1f7dec9b57",
@@ -1665,6 +2351,20 @@
       "status": "公开报道·待独立核实",
       "guidance": "识别需求趋势并与现有SKU、产品报价和目标客群交叉验证。",
       "related": "圆方 · 信弘达 · 源采",
+      "is_core": 0
+    },
+    {
+      "id": "3f640166d9570dd055",
+      "category": "future",
+      "title": "Although automation of pharmaceutical and bio factories using artificial intelligence (AI) is accele..",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0aDhYXzEwMHk0N3RsUzl4YVNJckVtZzNiajNEcGtGU1oxVF84X3llelJxS1lVMGNpd2NpUlVLMDdOZzFBZkFsRmh1RQ?oc=5",
+      "source": "매일경제",
+      "published": "2026-11-19T23:32:36+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
       "is_core": 0
     },
     {
@@ -1806,6 +2506,20 @@
       "guidance": "识别需求趋势并与现有SKU、产品报价和目标客群交叉验证。",
       "related": "圆方 · 信弘达 · 源采",
       "is_core": 1
+    },
+    {
+      "id": "8ba88c3a4cc371a899",
+      "category": "future",
+      "title": "America Cannot Lead Tomorrow by Underfunding Science Today",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNamR0b2FDOF9PV2I1ZlFNS3k5TnV6YTktWXdNNjAtRzVWbmRBVEFCOXRyS19HeGlnQk5ha3ZZemt6MXd1cnFoMVNsRnVhU2Qwc1dYN0ctdDdWanJvaUpIRmFsUlI3MWVYbmtYMDhfc0wzY0Y4Wi1NTGpEbWZZYlNLSTVzTGQ1eTNJb1UxajVLMklVWjZEVjZjYVhtUHBPMGtrenJEdTFSSGhnUUkwWHlqaDBmOEU0aFoyUXBSc3FOcko?oc=5",
+      "source": "RealClearPolicy",
+      "published": "2026-11-19T17:58:51+00:00",
+      "group_type": "C",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
     },
     {
       "id": "41a99963abec953ecf",
@@ -1990,6 +2704,20 @@
       "is_core": 0
     },
     {
+      "id": "b32dee2c45bdab8237",
+      "category": "future",
+      "title": "AI Is Changing How Medicines Are Discovered. These 4 Stocks Are Positioned to Benefit (ANT, MEDS, RXRX, SDGR)",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVXZLVS1vWUxEcWF5V01tUDJ2TDV6VGJYUkI2OUlQRW90a0NUV1lQRGtVM3UwdHN0eC1DUXFwbTdPeUZ6V0pIZmxlSWc2cG9rVEpvOEZpSlpjdlRtWHFkNmhtbWNxbjJhRGR2b2x4VmFJYWwtbXBFdWdIZUN3SUtRWWt1S1lWNTR1Z2lRS0dKYWk1TGtIVUtYbk1aTkVpZnpXcXc1Y0czZEY2T1hLbkJ3blQxdU0zNVBVZUpyemxQaTktUHphZ2xfU1hGUWNQaExUdk5vbG9LRnJEVEIxUXlnVENPZWxfNXRDZ3VraGl4U0FFWWRwVTJkVA?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-19T13:41:45+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
       "id": "90c898b27a51d597f9",
       "category": "brand",
       "title": "Ranveer Singh And Aman Gupta Launch Men’s Grooming Brand H.I.M",
@@ -2016,6 +2744,20 @@
       "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
       "related": "圆方 · 信弘达",
       "is_core": 1
+    },
+    {
+      "id": "62d4c563c959de62ae",
+      "category": "future",
+      "title": "Where Biotech Is Growing Next",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSXZlRVZmak5kRnhBaFdpN2RIZVRuV1hNb2doblFrM3piUE00WERzOFFrdXlHMUxlS19OVV9oYWJSd09DaUVzR0dzQWdPZDRvTHZLek9wVElIRFRyZUtueVlYZ1lfU0RrN3Fjbnp1Smx2TDNVeHR0djI5blhJOXVfVnpCaXhsYVhLcmtRUkVxSWdGWkhzWUxrLVZQYkVaY3c0eUs2MXJHSXU1b2t4elZ6LU9NNzVGQnFmTWkzb3I0QVpKc0Y0MGo0ZQ?oc=5",
+      "source": "Spherical Insights",
+      "published": "2026-11-19T12:56:32+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
     },
     {
       "id": "ce42c5745f437661d6",
@@ -2074,6 +2816,20 @@
       "is_core": 1
     },
     {
+      "id": "245ae3eb3ef2c8b1c1",
+      "category": "future",
+      "title": "BABA Stock Edges Lower Premarket After Q2 Earnings — Alibaba’s Adjusted Earnings Miss Estimates, AI Cloud Revenue Jumps 53%",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQNGtYZXphaDU2WTdiekxjWnhFdU1zTmRlVWhYWnVDZlVzWTR1cVlHaFppSXcwY2hYUUpnNi1FMDF3dTBoeXdodmRoT0gxRndoWm1NZVB0TGJrVzE0bjctTmRvZzhEMEd5dUpJWV9raTFuaDhKOVFxWTdOenNEaHN0SmRTRkk4cnJrVG1kYWtjTExGdnlUeURObHphdEVfcFRqNWFXNzVTejRQQThLQWc2SmxMdWd2anBpZFFzbVIyUzJoODZNVDYzWXU1OG13RTk2SmdkaU56SXVYU0NGdm9kcXNQb3hWcnk5ekxqVnQwWE52MUVSRHBObWpvekJSRU94S0Z4TFdNbEhHTFMzS2w5Nm42V2RMN0xzb2thYVB3RkdONi1iaWc?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-19T12:23:39+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
       "id": "9fbabd3a08a2022f8e",
       "category": "market",
       "title": "Too Many Stars, One Bathroom Shelf: Can India’s Celebrity Men’s Grooming Brands All Find a Market?",
@@ -2130,6 +2886,20 @@
       "is_core": 0
     },
     {
+      "id": "cf2f22470edc152dd0",
+      "category": "future",
+      "title": "Official Announcement: Second Batch of Guest Lineup Unveiled for WISE2026 \"King of Business\" Summit",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10Q0NKalJoTDFPSjRiYWNlMHBtLThhQWRSbmZKY0l2clhvWGFhMVkxU2JfcHp6XzFtNl9SUlZxNk9Zc01aZXhwNnIxeE5OZUxGb0JV?oc=5",
+      "source": "36Kr",
+      "published": "2026-11-19T11:03:03+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
       "id": "a3a56dd39f59f3b5bd",
       "category": "channels",
       "title": "Space NK promotes Leanne Rouse to Chief Marketing Officer",
@@ -2141,6 +2911,20 @@
       "status": "公开报道·待独立核实",
       "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
       "related": "信弘达 · 源采 · 半柴",
+      "is_core": 0
+    },
+    {
+      "id": "3e534ce2e75709153f",
+      "category": "future",
+      "title": "South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYjJyUW83NEllOTVXWDNHUnY0UW85MjF2dzVVQ1NxOVBGaW1EY0trbjRZZU5zZWFLUnZnQ1RGUkhiM3ZmZVA2VUxZNm5UQlpJR2F2OXotX0EzOUJJdHNkZlhCUXVnM2xqaEZ1Zmh6R19sSmUyelZzSVJSSkVTZHBvd2ZUQkNJOFZPaEZ6amhLd1BGWlcxd2M4N0pLa0J5Z28taFE2M293Z1puMWViY3FhZDh6WXd4SjFsNzg0dkZ3?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-19T10:40:43+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
       "is_core": 0
     },
     {
@@ -2186,12 +2970,40 @@
       "is_core": 1
     },
     {
+      "id": "6d148901acb89a028e",
+      "category": "future",
+      "title": "11月26日，WISE2026商业之王大会·具身智能&文商旅分会场落地北京亦庄。首批嘉宾阵容，今日正式揭晓！欢迎扫码报名，我们现场见。",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtTHhPVjRiZmNfQi11X25xc05LNzl1ZExwd0pDQlJaTDNCR2lfSWxiZHBocmhQTUZDT2hjb1ZkYlFyNGhFOXNLakNPTUZBdw?oc=5",
+      "source": "36Kr",
+      "published": "2026-11-19T10:11:00+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
       "id": "1e34e5f3a92960f118",
       "category": "future",
       "title": "Alibaba Group Announces September Quarter 2026 Results and Interim Results for the Six Months Ended September 30, 2026",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQd3NhYUtkMTNRRlU0TXFjUG9TZ3o1VXJwVlNlT3lnU3pXQnlOYVZCNFdVTGdPZXdEaTZWNUtLWjBWZjRaZkpfcDQtY1F1UktIaHpuUXo3Z3VTTHdSYXA3ZkM5Z3JJazVsVWp5Q2RHb1M2dVFGcDg3Q0IwdWRhOWtNc0c4V3pCTDFUaHZGLXNndlNScUFWbTcxVUo5SlJaclAzQnpuNDU2WS1meXZXZ29BdjU1dkdPYzY2XzBKNHVpY3NkSWhuRHFGdmlBeUZ4eWphZ3RXeWFBMnFPOGhZU2RHY0VLenEtSHFkQVYtQlVlQl9fVHZsVjFxQ3lzUmdtLWdKSlJkRQ?oc=5",
       "source": "Business Wire",
       "published": "2026-11-19T10:03:16+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
+      "id": "0cfae5c5a6178c7918",
+      "category": "future",
+      "title": "Why UK biotech innovation struggles to scale into industry",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcmpueTg0a2Q4ZndwR2lIeWR3dTlxaWhkaDl1ZUtsbF83WEphb1BhTkItOVNqejlCMEc1aUNFWlh5VVNabE14MjYwd2FiWEw4aUZxaEY0U0RxZWh1d09JeS1QT24tTEpQUlJhVkhwN05uOTZMcG1uRHFwM0dVbE80b1NlblJIaEpGbmlQNklnVDdnZw?oc=5",
+      "source": "TechRadar",
+      "published": "2026-11-19T09:56:14+00:00",
       "group_type": "C",
       "score": 2,
       "status": "公开报道·待独立核实",
@@ -2309,6 +3121,20 @@
       "status": "公开报道·待独立核实",
       "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
       "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
+      "id": "5dc94e841f1aafa563",
+      "category": "brand",
+      "title": "Almost Gods Enters Hyderabad With New Store in Jubilee Hills",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLWdmejZJTmVoMWZobkt4WExqRm9Oa0l4TThaazIzRmtPNUNrcmRQcHJIUklMemQ1SDVsRlg3SHo1QndoM3BJTWVWY0tJMXpTZTVScTJLYXdyQWhQcVNpeFc1SlhCeFROazhpdENFZmxPVWZ5bkxuYmZEQTFhNDQtc1c0RmgyRUpNT001Y1NfRnVJMmFwcl9jLUVQTnFOSW1kaDhxZXUxdUI?oc=5",
+      "source": "Indian Retailer",
+      "published": "2026-11-19T08:00:00+00:00",
+      "group_type": "B",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
       "is_core": 0
     },
     {
@@ -2495,7 +3321,7 @@
     },
     {
       "id": "c3443a4b14d246bf88",
-      "category": "channels",
+      "category": "brand",
       "title": "Brookie Beauty LLC Announces TreStyler Launch and International Media Expansion",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWTVpRW1ZdmRVZTNtS0paMW1EN2pBM2NacUJjck1uZ3Nwa0JmWF9KMk9DNU80TVVsZUV1cFdKUTZYVFhDdlJwNGFsRUppR3ZMdm1aOVh1NS1OaENOQV9IZnRiMXlaNldJX19nS2xhanhMMTY3aFNmTmZvMm9SS0R4bW9mMmpPTlNZc0dyTmVUdmpzSnJ6alNWWVowRDh3WHNmQl9XVVNQMElncE5vRURkT1h2bU1LWDAtV2ZITVp3cS1mRDVyREVjeG5XUWp0ZGxiUmNic012WFRkaTNQQUNnMV9oVnM1UQ?oc=5",
       "source": "GlobeNewswire",
@@ -2503,8 +3329,8 @@
       "group_type": "B",
       "score": 3,
       "status": "公开报道·待独立核实",
-      "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
-      "related": "信弘达 · 源采 · 半柴",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
       "is_core": 1
     },
     {
@@ -2528,6 +3354,20 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14SFI4Zm1qNHZUVlFaQUpGS185MDdSTjBtU1NzR1NudUFtQWZvT2ZuWkVQSzd3M0EwQnFrZGk2SWtNcm5sNnphb2kzaHJSUEVsN3JKcENVeUJwUDB2?oc=5",
       "source": "Andreessen Horowitz",
       "published": "2026-11-18T22:07:58+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
+      "id": "78f2fbd89897f3e9e7",
+      "category": "future",
+      "title": "Top IPOs For 2026: Are We Entering A New IPO Boom?",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yUEtNaU4zc1BjNk5YdVRiejlXd0JvRks0UFJKcXNnYzMwSXdTYXAtMXhrSjlBWFVOTXZjRzRUd0dscFdBRGs0dDdoUE5VazgwTnJjNUdvbEptd0VoaFVHcmRzb1ZXaFlCTWo2X1ZLclU?oc=5",
+      "source": "Forbes",
+      "published": "2026-11-18T21:39:00+00:00",
       "group_type": "C",
       "score": 2,
       "status": "公开报道·待独立核实",
@@ -2606,12 +3446,40 @@
       "is_core": 0
     },
     {
+      "id": "3a9b5d29f62c09e7c2",
+      "category": "future",
+      "title": "When to Sell Growth Stocks: Valuation Targets and Portfolio Risk",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSVVzQXl6RFIyQzhYYldaZnZvT19LR3hyanVBOGdDU1M2enBha0hJMDJzTXlxTW5Ua3hDSjBLRC05aVpINEkwWi1IV1ltdzJzY1U1dUp5ZXZ6SkRseEFBcl9vUTMyV3pPR0N1eXlRSmlWYnE3UzFlcUU3VExHaG8xT0NVSXdwSmxCUWhUZnJwNkppRmN1cDNObUpYV0VZVUdoUEozbg?oc=5",
+      "source": "The Acquirer's Multiple",
+      "published": "2026-11-18T20:35:04+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
       "id": "36be31613055766cc1",
       "category": "future",
       "title": "MET FL Services Appoints Michael Bennett as Chief Financial Officer",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2x1djBhbnFhblhPN1U4LXJrcUxNQUo4S0xHTGpBR3prWkhrNmZnYVlUVW9ic1VOR3RhTUhOdEdwYWd2b3ppSGhCZGJJM2VYeHB6QkNXTHJUUlpEbS0xVlJYb09RanlHdFN6R1AwSDluQkdFTWtRZy04dGNKd1NDV2FOa1Y0dXg0TWtYdDVtNXMxR2NiWmtvbWZxejBwcVl2bV93ajZNcl9KSWxXc0xDZHloY3MyeWZ0Um9mVWgzemw?oc=5",
       "source": "The Detroit News",
       "published": "2026-11-18T19:17:05+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
+      "id": "f6b0ea7f26d3b9a62d",
+      "category": "future",
+      "title": "Julien Nono-Womdim’s Top Picks for Nov. 18, 2026",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkJYZFFpOUJvZHV0Yl92Q2N1QUdhY0FZVmlkOXN3V2dxWHBYY2pHVFYteldQVTBlLTc3VFBPMXV1dE1sNnBIeUE3OGZkenJseldMNFRQNkRteGl6QmMtTTN0TmlaRXlvUDlmMmJqRFM1Yl85c2ZoenB5ci01MVFRWC1NMWl3TVB0UVdDblhULVdJQUE2b0hadw?oc=5",
+      "source": "BNN Bloomberg",
+      "published": "2026-11-18T18:21:56+00:00",
       "group_type": "C",
       "score": 2,
       "status": "公开报道·待独立核实",
@@ -2648,6 +3516,20 @@
       "is_core": 1
     },
     {
+      "id": "c14c5cbf1a1dc99ac9",
+      "category": "channels",
+      "title": "The Vogue Business People Moves Tracker",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBSEtEUEEzbEtJZ1NYRGEwalJJYlJmb0tTZFRtZk9HN2tvTGZyZmxfZU5wODlHRnk0Q0lGcVlJUk1PdjRDdlpPOElWRTAwVjVoZElabWZmU3kxcGJ1WEhZYWo2RUZuMTZ4UkVPZHVoV2txZXUxczRQQg?oc=5",
+      "source": "Vogue",
+      "published": "2026-11-18T16:47:36+00:00",
+      "group_type": "B",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
+      "related": "信弘达 · 源采 · 半柴",
+      "is_core": 0
+    },
+    {
       "id": "c128a91f2a4762f519",
       "category": "market",
       "title": "Dealing with strawberry skin? Dermatologists swear by these exfoliating lotions",
@@ -2660,6 +3542,20 @@
       "guidance": "识别需求趋势并与现有SKU、产品报价和目标客群交叉验证。",
       "related": "圆方 · 信弘达 · 源采",
       "is_core": 1
+    },
+    {
+      "id": "b5343b0dd64d6605ea",
+      "category": "future",
+      "title": "VEEV Stock: What to Look for in Veeva’s Q3 Earnings",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPal9sdHhNQ2FZUmJzbTlBZmVNSmFNUWozNy03a1dFWFBZVnZPWWVrSm0wNVUtXzktUGFFMkVYVHdQMWlfVFN4V0FiREk5M1Fzd2xZU2duMEpDR2RxTjVPMzk3LXd1blJFdE0tSktwR082c1NmMzR2LTVUSkR0aE5EMDhXT0FYeW5iZE5uNHVaRnY?oc=5",
+      "source": "CMC Markets",
+      "published": "2026-11-18T16:29:31+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
     },
     {
       "id": "4cc37b76905eff8ed4",
@@ -2774,6 +3670,20 @@
       "is_core": 1
     },
     {
+      "id": "ea19f87238e34f71c3",
+      "category": "future",
+      "title": "Joint statement between Australia and the UK on life sciences and biotechnology cooperation",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRXE4ZjF1WlAxN0Z4STBwREtzbXprWUVrd3AxLTNjQXpMQTBzemV0Nm5VaXZOb3Q2TS1ReXhPUFl5TDkzV1FOR01lVnVid3UyX1p2c21uUENLU19vSktZSDVTWEN6dkRVWW9qQVFrWGFDSDVjU3lRNUltZ2RGajFlcDh3M0VUQ1VIS1YxcDlFVWxySF9jcnZyQkNxN0hmSE4wVFNnQXp0UExFeFpZSzRHNmJORFNBWTVaT25hUENSemJMZEFSOVZlamtHc092c3ZpeW9fUjJDUnJHalBnYjQxLW1yY05SbnA1aXZ2YjZzYw?oc=5",
+      "source": "Wired Gov",
+      "published": "2026-11-18T14:23:43+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
       "id": "3552e859f155f01b7d",
       "category": "market",
       "title": "Cosmetic Jars Market to Reach USD 7.6 Billion by 2036, as",
@@ -2802,6 +3712,20 @@
       "is_core": 1
     },
     {
+      "id": "30e3780c6f54773b7a",
+      "category": "future",
+      "title": "How AI and Anticancer Peptides Could Reshape the Future of Cancer Treatment",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQa0lUdVcwdzc5RlZnMDZKUERZMEktVFNjNXYyQzhFRDlJdzNuTV9wdmtVelhFbW5RT1lrQWZfVHYxeTlfdlY3ZXBmOGlMOC10NFg3eVFZZ3ZGd1VCWmc5VGlMRnNjbEdGZGZobERPWklQeVNPZ0NUM0FYNGR1ckwzMDNkLU1GdDZvWGdPMThMbEJkdk1YVElrZTMwOGlyWC1KVkJtWGU3YlpEYTJJbkUtNkRaVU9ib2I3SHlpRmdfblotaXkwdGh1LW1qMUVXdWpoOXhhd0hTd0o3U083T3Brd0hzZUJYcTd1SGJFWGxPd1A1NUlJOFNOdTZpdlF6N1BDLWZjWTg3MkM?oc=5",
+      "source": "WBOC TV",
+      "published": "2026-11-18T13:30:00+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
       "id": "458ea03a328cf8c7ff",
       "category": "future",
       "title": "Lee urges APEC action on supply chains, critical minerals",
@@ -2816,20 +3740,6 @@
       "is_core": 0
     },
     {
-      "id": "3a0dd30f917a9c7389",
-      "category": "research",
-      "title": "Hansol Bio Expands Global Cosmetics Manufacturing Business with New Online Platform",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWE1WNEpSeFU0dWRnUXlnVzlDQ1pDSXhCeldOdnB2VjFzWkY1NGpSQ1FkUl9ycXJuallleUM2YkhGSEJoQzk3TGV5dGVyOE45bUJWY2R3a1ZGckJYZ2RHUURMY2M5R0JvN1hUdzhsc2xUSVBkSDhuODhnSFJTSVAzYzJxR1o1Mmp1ZkNTOXVqTHVsdGN3ZVV3RTBxSDU0eU5iTmljbEQzNW1Ta2dseGhveDhPbDU2Ym9UeF93a1djNFpYQW5aTFY0Z25KcFdOMUpEQzVVRVNIaU0teGxaYUE?oc=5",
-      "source": "The Des Moines Register",
-      "published": "2026-11-18T12:40:28+00:00",
-      "group_type": "A",
-      "score": 4,
-      "status": "公开报道·待独立核实",
-      "guidance": "核对INCI/原料合规、配方稳定性、功效证据与量产成本。",
-      "related": "圆方 · Q-LAB",
-      "is_core": 1
-    },
-    {
       "id": "228925f7e967179cf7",
       "category": "market",
       "title": "Benzoyl Alcohol Market To 2035: Pharmaceuticals and Personal Care Drive 4.2% CAGR Growth - News and Statistics",
@@ -2842,6 +3752,20 @@
       "guidance": "识别需求趋势并与现有SKU、产品报价和目标客群交叉验证。",
       "related": "圆方 · 信弘达 · 源采",
       "is_core": 1
+    },
+    {
+      "id": "588c7c78a44ed04d93",
+      "category": "future",
+      "title": "APEC take: China's potential, region's growth",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNZmVXNGcxX3lEZzlIaTRYOVZHVFQ0Rncwbmd2VmNvVWk5NjNnR0Q3UFI2ZzNieDFzM0tlODFWdlF2R3VTaE1SQWJ3WkcwZy1YajN5dmJnVzFXUQ?oc=5",
+      "source": "chinadailyhk",
+      "published": "2026-11-18T12:00:00+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
     },
     {
       "id": "f8f29c36d2e02fa913",
@@ -2894,6 +3818,20 @@
       "published": "2026-11-18T10:07:15+00:00",
       "group_type": "C",
       "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
+      "id": "3c9ce99025755b3b9a",
+      "category": "future",
+      "title": "Saeed Bin Rashed Al Dhaheri and Bulent Ozbay Announce Strategic U.S. Partnership",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRlplZG9aZ0t0eWo0LXBsd05kbW9rYjR4U1d3REFOOUZwbjd2YTY4SEJlTl91RmJlNWJZanJHVEVlSHZfeWxDU1c5dGh4X1E2d1Foa3pjbjZnNGVzVnZuaU5TRjliRlNYVUd0clpRelVIbXZ0TE1YRzVYeEJBWENreHJDaFJidVk4b3JuYnloWWZsZWZVSlZPMGpYcDFmYVAwUDVoMDhZS1kxLXhMYS1qWWRodFdvNV9DQ2JtT1ZnejNmdDc2RWNYeGFQUngyMU5CM1RkYlB3?oc=5",
+      "source": "The Courier-Journal",
+      "published": "2026-11-18T09:53:12+00:00",
+      "group_type": "C",
+      "score": 3,
       "status": "公开报道·待独立核实",
       "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
       "related": "跨行业观察",
@@ -2968,6 +3906,20 @@
       "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
       "related": "圆方 · 信弘达",
       "is_core": 1
+    },
+    {
+      "id": "5138c4a7a1cc663d32",
+      "category": "future",
+      "title": "Lotte Biologics Completes $1 Billion-Scale Manufacturing Push With New Korean Plant",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGtnU19wVmxiN2tWcnN2b1VpLXpqY1B1YmlhYlpvQUk1RlA3eDVvOVFxaU5pclZzenl1WWVxY3VzYmd3TS1hcXp1MS16N2loanJUMWFudUJYVFFtTkl3QmRnRHVkVWtMQ3dHa19CdW9vcmp0c2Nlekl6VTZqNDlWRm9XV0ZYZ0pfcE1yWXpvbDh1QmZKLUc2ZllES1ptM3hKN1pHVkhzRlk2Y1o2OHBiZ2ljMA?oc=5",
+      "source": "Koreabizwire",
+      "published": "2026-11-18T08:23:15+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
     },
     {
       "id": "34e9b16781ec0c05d5",
@@ -3054,6 +4006,20 @@
       "is_core": 0
     },
     {
+      "id": "24df476f0c50273e30",
+      "category": "future",
+      "title": "SG60: A*STAR banks on deep tech ecosystem in innovation drive",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnBGM1VPTmozQXVKLV84aGE2QldSaFN6ekw2T3R2VGJEUzRZTDdtTndLbmlkNVBVWXF1djJ3S3lBTFFvSXZDODY3Q2N2SVFSdThUcFcycUV1V0FRZ29BUWRlT01BMm85T0J0Nnh4eDBsNURLN3FVZ0lScHJ0UGJZRW9UQ19wakpENXU0ZU44YnJLQlhORjNkekViZmlCQ1A3VXJz?oc=5",
+      "source": "Singapore Economic Development Board (EDB)",
+      "published": "2026-11-18T08:00:00+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
       "id": "95850031ff0a01f2eb",
       "category": "brand",
       "title": "{Funding Alert} D2C Egg Brand Henfruit Raises $15 Mn in First External Funding Round",
@@ -3110,6 +4076,20 @@
       "is_core": 1
     },
     {
+      "id": "e486af2b3f71740d75",
+      "category": "brand",
+      "title": "'Ultra-Low-Cost' Cosmetics and Beyond: Emart and No Brand Expand Their Beauty Portfolios to Include Functional Products",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qa3BIWEtuT1NRcS14bkpyX2R0Qm9LaGkwS095elR4cGQzY3d4YTBRX053SEdmQXduS00xb21sUU1udjZjRVFQVDg2dmZoU1VBVl9xcy1Pb3E?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "2026-11-18T06:04:08+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
+      "is_core": 1
+    },
+    {
       "id": "b4b330549306a9fb90",
       "category": "future",
       "title": "APEC峰会料搁置关税分歧 各经济体寻求贸易合作共识",
@@ -3138,6 +4118,20 @@
       "is_core": 0
     },
     {
+      "id": "3a0dd30f917a9c7389",
+      "category": "brand",
+      "title": "Hansol Bio Expands Global Cosmetics Manufacturing Business with New Online Platform",
+      "link": "https://www.tennessean.com/press-release/story/264369/hansol-bio-expands-global-cosmetics-manufacturing-business-with-new-online-platform/",
+      "source": "Google News 收录媒体",
+      "published": "2026-11-18T04:36:00+00:00",
+      "group_type": "B",
+      "score": 4,
+      "status": "公开报道·待独立核实",
+      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
+      "related": "圆方 · 信弘达",
+      "is_core": 1
+    },
+    {
       "id": "36fbaa1238160edb13",
       "category": "future",
       "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
@@ -3164,6 +4158,20 @@
       "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
       "related": "圆方 · 信弘达",
       "is_core": 1
+    },
+    {
+      "id": "cbf7ada06bdfad2394",
+      "category": "future",
+      "title": "Exin Therapeutics launches R&D facility in PH",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeFkzTjdPNjNvV0N2SXNzRHhoaXBxX0pjWDdqSENDX2ZtQjc3em1MLXdEMFdsYnVTZFVLTW9MeHItekdNRXN0VUNjWk5rM0wtVjNCS1YyWVROdEZCYWlyVUcxY1UzT3V5cjRkMW5SRlRDMWxNVi1ib280LWU0YWZvemZUWm1hVG9weHZF?oc=5",
+      "source": "thephilbiznews",
+      "published": "2026-11-18T03:05:44+00:00",
+      "group_type": "C",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
     },
     {
       "id": "6b58b8ced6b69e9143",
@@ -3222,6 +4230,20 @@
       "is_core": 1
     },
     {
+      "id": "a40fcc09ab06dddf4d",
+      "category": "future",
+      "title": "Breaking the record for single-round financing in AI-driven drug discovery! Why has Isomorphic Labs attracted top-tier investors?",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0stMXFEV19TWERYTG5HOTBkWElJdFZ6aGdUSGY4VjRWSWxLeVh5eTh2QWdzbG5fSGx1VVpPclR6TnlVT0dMWEVpUXdaNlBiNzAzWS1FdUdGcUtIcndaVXoxYko1RmdpZXlsRUl4djFmZHB0YUVQMDN1blpEUldPMEcwZ3ZYNnp4MnhFNDAxZzdpYTVNVE5OOFBTVXM0ZFVmb1VTNVd3?oc=5",
+      "source": "Moomoo",
+      "published": "2026-11-18T02:14:35+00:00",
+      "group_type": "C",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
+      "related": "跨行业观察",
+      "is_core": 0
+    },
+    {
       "id": "0a533077103d73feb5",
       "category": "brand",
       "title": "CJ Olive Young to launch first colour cosmetics store in Seoul’s Hongdae",
@@ -3248,6 +4270,20 @@
       "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
       "related": "信弘达 · 源采 · 半柴",
       "is_core": 0
+    },
+    {
+      "id": "59b23ab38e9d353719",
+      "category": "market",
+      "title": "Jennifer Lawrence and Jasmina Aganovic Launch Hair Care Brand Mes°",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc2xOTFZiSTI3cVhrbnphZDBOSlhvUmpWX3ljLV9lTGpad0NEMk5uYzB3ODFTV2tXc1JhRWpOeFlVTzBSVXd5b0lCMURaSTlfeDdQOURfYTlRbGYybDB5V1g1U0FfbkZwamZjNXF1Z3hOQk5Zc2ZNamVfVTB1T2VPaUhlRDhjNkJaVDduWlJRaWFWUm54djRFU2x1YXRmc3JvMTkxM2xSaXhfZHM0RkVHVW1kSDQ4RWRPLWFzd2hCWUcxcXhHcWxuTjlGWGxMZmJIOEpGZGoxM0JMTVFLMDNJ?oc=5",
+      "source": "WWD",
+      "published": "2026-11-18T01:27:38+00:00",
+      "group_type": "B",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "识别需求趋势并与现有SKU、产品报价和目标客群交叉验证。",
+      "related": "圆方 · 信弘达 · 源采",
+      "is_core": 1
     },
     {
       "id": "f5040d8e7d1966683d",
@@ -3402,6 +4438,20 @@
       "guidance": "判断渠道门槛、账期、毛利及能否小批量试点。",
       "related": "信弘达 · 源采 · 半柴",
       "is_core": 0
+    },
+    {
+      "id": "97ec50ddb53a71b243",
+      "category": "research",
+      "title": "Cosmetics consumers' interest these days extends beyond mere cosmetic effects to ingredient efficac..",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BQl92UDdTaGtzNC0wTlZVZkRWZFR2c0k5NHVGS3I4SFhxTkN3SGc4WGVpNWM0SDVhaC1WZXUyZjlHa1FBc25ncGxqdDVyOEJfelE?oc=5",
+      "source": "매일경제",
+      "published": "2026-11-17T21:02:25+00:00",
+      "group_type": "A",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "核对INCI/原料合规、配方稳定性、功效证据与量产成本。",
+      "related": "圆方 · Q-LAB",
+      "is_core": 1
     },
     {
       "id": "c04970229a305b6257",
@@ -3976,20 +5026,6 @@
       "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
       "related": "跨行业观察",
       "is_core": 0
-    },
-    {
-      "id": "97ec50ddb53a71b243",
-      "category": "research",
-      "title": "Cosmetics consumers' interest these days extends beyond mere cosmetic effects to ingredient efficac..",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ROXFpcjFsZm1aeXEwUHBieFlrbnRxWjZ3ZzZ4Q1VlUHpBcDd1SVJMYUVLS1Z2Yk1sWUFSOXlsMFlmSXFocjVQMFhtcjlNSEdkQlE?oc=5",
-      "source": "매일경제",
-      "published": "2026-11-17T07:51:54+00:00",
-      "group_type": "A",
-      "score": 3,
-      "status": "公开报道·待独立核实",
-      "guidance": "核对INCI/原料合规、配方稳定性、功效证据与量产成本。",
-      "related": "圆方 · Q-LAB",
-      "is_core": 1
     },
     {
       "id": "9d2479c2870247e3fb",
@@ -4928,20 +5964,6 @@
       "guidance": "识别需求趋势并与现有SKU、产品报价和目标客群交叉验证。",
       "related": "圆方 · 信弘达 · 源采",
       "is_core": 0
-    },
-    {
-      "id": "1da71b6ee0ce77ea2e",
-      "category": "market",
-      "title": "Best Beauty PR Agencies: 24 Firms by Brand Stage",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNU9aalpRbi1LNFNyVlhHRTVQdndMaFVBR05HaWJ3M2tJOWZWaDg0NXlXNWgwZThmRkstNzJKNTJES0E2S1ozS01MelFib3J3U2J2M3hCM3VaTjFXQU1iR2FrZS1SWHNNRjMwd3g2WTJXaVNXN19FNHlXS0RJNE5VZk9YNHhzNHZjVlNPR3cxZ1dTcEFlVXFwRFVwSkN0WTQ4NXlEeUxkNmJNXzZnYVE?oc=5",
-      "source": "Everything-PR",
-      "published": "2026-11-15T10:57:46+00:00",
-      "group_type": "B",
-      "score": 3,
-      "status": "公开报道·待独立核实",
-      "guidance": "识别需求趋势并与现有SKU、产品报价和目标客群交叉验证。",
-      "related": "圆方 · 信弘达 · 源采",
-      "is_core": 1
     },
     {
       "id": "b6c2b9466887e1cff7",
@@ -6274,20 +7296,6 @@
       "is_core": 1
     },
     {
-      "id": "903a78d3bbab250f22",
-      "category": "research",
-      "title": "PROYA Debuts at Ulta Beauty, Bringing Science-Driven Prestige Skincare to U.S.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOczJWTkJmcHhXUW45dGxkeUlfYkQ5N05pSUZybVY4TWNFdzlzdi1sVVpzQmFqRFdRRE04NnQ0TVNJMlR5cktNQldJak5uR0tBUlg0dWJiY0xpZUVMaFBtbTZ2akRleGVleEZOVFNqQXFQdGpRZUpFaDhVYUR0QzVDRUVCcEcxeDlYYnFQejU5M0FaSURNU0cwY0VJbWs3SU1qeVNlbWwwNWdtRml1SHVkY2drSXlZOWlrRWxObmJzT2FyVEJhQy1J?oc=5",
-      "source": "巴士的報",
-      "published": "2026-11-12T14:42:00+00:00",
-      "group_type": "A",
-      "score": 3,
-      "status": "公开报道·待独立核实",
-      "guidance": "核对INCI/原料合规、配方稳定性、功效证据与量产成本。",
-      "related": "圆方 · Q-LAB",
-      "is_core": 1
-    },
-    {
       "id": "91a84ede9d16c9bb71",
       "category": "future",
       "title": "湖南省(国际)创新创业大赛总决赛开赛 54支海内外团队“顶峰相见”",
@@ -6568,6 +7576,20 @@
       "is_core": 0
     },
     {
+      "id": "903a78d3bbab250f22",
+      "category": "research",
+      "title": "PROYA Debuts at Ulta Beauty, Bringing Science-Driven Prestige Skincare to U.S.",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHZxZ0RmY2FoX0c4dmt1ckM1QXVLLVMyeHRkMVNINlBXR2tXMWIzY1VXSmRxdjNmY2hUU21MaVhnNjU5dFZBcTFadm1wQVdwbWZRZ241TElqa1liU2NtZEdaa243TGpUTlAxaGdEeGIwRFdIUWNlUC1RQTREQVo4dDhNRVYzVFFLeDMxQ1kxbnF3WHprNTc4ZTBKU3lhSUFGRGhlR0JYY2FwZ3J0UGxKQXpWRlJtUl9LenZTRXhQSTlyUm1pQk5xSDZsTWhxX2k1anBn?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-12T08:00:00+00:00",
+      "group_type": "A",
+      "score": 3,
+      "status": "公开报道·待独立核实",
+      "guidance": "核对INCI/原料合规、配方稳定性、功效证据与量产成本。",
+      "related": "圆方 · Q-LAB",
+      "is_core": 1
+    },
+    {
       "id": "65ca20a93e24f3fd94",
       "category": "research",
       "title": "Five Key Trends from the in-cosmetics Asia 2026 Innovation Zone",
@@ -6652,6 +7674,20 @@
       "is_core": 0
     },
     {
+      "id": "28f206c764dc88aa15",
+      "category": "research",
+      "title": "L’Oréal and Walgreens Back Chinese Biomaterials Start-Up",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaXI0ZFlLWEJLY2dYNGNwcnZ6cG40b1diaXA4TERGeVBtOUNNLW92S0JFMVhZS1F5eHIza2JtandmcFVjVXFDc2R1X0xhZlpiLU1CVlptRFhrLUcycGpQZ1gtOHBtMWFPN21OQzFQS3VDNkVsR0t1dDd1TTUxd1BEejJPWE1ZYzgyeUQwRnhVa1h4eEhmZzFN?oc=5",
+      "source": "Global Cosmetics News",
+      "published": "2026-11-12T08:00:00+00:00",
+      "group_type": "A",
+      "score": 2,
+      "status": "公开报道·待独立核实",
+      "guidance": "核对INCI/原料合规、配方稳定性、功效证据与量产成本。",
+      "related": "圆方 · Q-LAB",
+      "is_core": 0
+    },
+    {
       "id": "b0ad2e363ffe8f428d",
       "category": "future",
       "title": "小鹏 Aridge 价格与交付，装着双座飞行器的六轮货车",
@@ -6678,20 +7714,6 @@
       "guidance": "联系包材供应商核实材质、MOQ、兼容性、专利与单价。",
       "related": "圆方 · 源采 · 半柴",
       "is_core": 1
-    },
-    {
-      "id": "28f206c764dc88aa15",
-      "category": "research",
-      "title": "L’Oréal and Walgreens Back Chinese Biomaterials Start-Up",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaXI0ZFlLWEJLY2dYNGNwcnZ6cG40b1diaXA4TERGeVBtOUNNLW92S0JFMVhZS1F5eHIza2JtandmcFVjVXFDc2R1X0xhZlpiLU1CVlptRFhrLUcycGpQZ1gtOHBtMWFPN21OQzFQS3VDNkVsR0t1dDd1TTUxd1BEejJPWE1ZYzgyeUQwRnhVa1h4eEhmZzFN?oc=5",
-      "source": "Global Cosmetics News",
-      "published": "2026-11-12T06:01:30+00:00",
-      "group_type": "A",
-      "score": 2,
-      "status": "公开报道·待独立核实",
-      "guidance": "核对INCI/原料合规、配方稳定性、功效证据与量产成本。",
-      "related": "圆方 · Q-LAB",
-      "is_core": 0
     },
     {
       "id": "3d7934eb5687854838",
@@ -8287,20 +9309,6 @@
       "status": "公开报道·待独立核实",
       "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
       "related": "跨行业观察",
-      "is_core": 0
-    },
-    {
-      "id": "c14c5cbf1a1dc99ac9",
-      "category": "brand",
-      "title": "The Vogue Business People Moves Tracker",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBSEtEUEEzbEtJZ1NYRGEwalJJYlJmb0tTZFRtZk9HN2tvTGZyZmxfZU5wODlHRnk0Q0lGcVlJUk1PdjRDdlpPOElWRTAwVjVoZElabWZmU3kxcGJ1WEhZYWo2RUZuMTZ4UkVPZHVoV2txZXUxczRQQg?oc=5",
-      "source": "Vogue",
-      "published": "2026-11-09T19:11:29+00:00",
-      "group_type": "B",
-      "score": 2,
-      "status": "公开报道·待独立核实",
-      "guidance": "核实品牌背景、销量与供应链模式；如匹配，再研究业务拓展路径。",
-      "related": "圆方 · 信弘达",
       "is_core": 0
     },
     {
@@ -14170,20 +15178,6 @@
       "is_core": 1
     },
     {
-      "id": "0e3354673bd759f796",
-      "category": "future",
-      "title": "Best Growth Stocks",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43eFRGWXlmOUIzQzdDaHpuNDl4MTBaZWVpZEphc1d0djVLSk5kVXdhOWFZY2lFVGhDNDU2dUpKOTd1T1hvQTFEbkZFc3J6bWFrNS1lVWFISXM1MHpmOC1SM0xMZFdNSDBsSWhGUg?oc=5",
-      "source": "Forbes",
-      "published": "2026-10-30T12:19:00+00:00",
-      "group_type": "C",
-      "score": 2,
-      "status": "公开报道·待独立核实",
-      "guidance": "先研究实际付费需求、盈利模式和竞争壁垒，不形成投资建议。",
-      "related": "跨行业观察",
-      "is_core": 0
-    },
-    {
       "id": "0000f9548ae663c791",
       "category": "market",
       "title": "October in review: Boots sold for US$8.9B, Omnibus VI approved, luxury beauty branches out",
@@ -17041,22 +18035,22 @@
     }
   ],
   "status": {
-    "last_attempt": "2026-11-23T22:46:37+00:00",
-    "last_success": "2026-11-23T22:46:38+00:00",
+    "last_attempt": "2026-11-24T22:51:58+00:00",
+    "last_success": "2026-11-24T22:51:59+00:00",
     "fetched_sources": 21,
     "failed_sources": 9,
-    "new_items": 199,
+    "new_items": 193,
     "errors": [
-      {
-        "category": "market",
-        "provider": "bing",
-        "query": "化妆品 洗护 市场 增长",
-        "message": "syntax error: line 1, column 0"
-      },
       {
         "category": "brand",
         "provider": "bing",
         "query": "美妆 护肤 品牌 新品 融资",
+        "message": "syntax error: line 1, column 0"
+      },
+      {
+        "category": "market",
+        "provider": "bing",
+        "query": "化妆品 洗护 市场 增长",
         "message": "syntax error: line 1, column 0"
       },
       {
@@ -17072,9 +18066,9 @@
         "message": "syntax error: line 1, column 0"
       },
       {
-        "category": "packaging",
+        "category": "research",
         "provider": "bing",
-        "query": "化妆品 包材 包装设计 泵头",
+        "query": "化妆品 原料 配方 生物技术",
         "message": "syntax error: line 1, column 0"
       },
       {
@@ -17084,21 +18078,21 @@
         "message": "syntax error: line 1, column 0"
       },
       {
-        "category": "research",
+        "category": "packaging",
         "provider": "bing",
-        "query": "化妆品 原料 配方 生物技术",
-        "message": "syntax error: line 1, column 0"
-      },
-      {
-        "category": "regulation",
-        "provider": "bing",
-        "query": "国家药监局 化妆品 新规 公告",
+        "query": "化妆品 包材 包装设计 泵头",
         "message": "syntax error: line 1, column 0"
       },
       {
         "category": "future",
         "provider": "bing",
         "query": "机器人 生物科技 AI 产业发展",
+        "message": "syntax error: line 1, column 0"
+      },
+      {
+        "category": "regulation",
+        "provider": "bing",
+        "query": "国家药监局 化妆品 新规 公告",
         "message": "syntax error: line 1, column 0"
       }
     ],
